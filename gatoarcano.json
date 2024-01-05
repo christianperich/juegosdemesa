@@ -1,0 +1,2774 @@
+[
+  {
+    "nombre": "¡Campeones!",
+    "precio": "$13.190",
+    "url": "https://gatoarcano.cl/product/campeones/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/A-1-350x447.jpg"
+  },
+  {
+    "nombre": "¡Toma 11!",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/toma-11/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28146-1-350x447.jpg"
+  },
+  {
+    "nombre": "¡Toma 6!",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/toma-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/Toma-6-1-350x447.jpg"
+  },
+  {
+    "nombre": "¿Quién fue?",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/quien-fue/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-350x447.jpg"
+  },
+  {
+    "nombre": "1000 Km",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/1000-km/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27107-350x447.jpg"
+  },
+  {
+    "nombre": "7 Wonders – Armada",
+    "precio": "$31.990",
+    "url": "https://gatoarcano.cl/product/7-wonders-armada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/05/7-wonders-Armada-1-350x447.jpg"
+  },
+  {
+    "nombre": "7 Wonders – Cities",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/7-wonders-cities/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/05/7-wonders-cities-1-350x447.jpg"
+  },
+  {
+    "nombre": "7 Wonders – Edifice",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/7-wonders-edifice/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27579-350x447.jpg"
+  },
+  {
+    "nombre": "7 Wonders – Leaders",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/7-wonders-leaders/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/05/7-wonders-Leaders-1-350x447.jpg"
+  },
+  {
+    "nombre": "7 Wonders 2da edición",
+    "precio": "$47.990",
+    "url": "https://gatoarcano.cl/product/7-wonders-2da-edicion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/11/7-WONDERS-2nd-edition-1-350x447.jpg"
+  },
+  {
+    "nombre": "Abyss",
+    "precio": "$53.990",
+    "url": "https://gatoarcano.cl/product/abyss-preventa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/Abyss-350x447.jpg"
+  },
+  {
+    "nombre": "Aeon’s End",
+    "precio": "$94.990",
+    "url": "https://gatoarcano.cl/product/aeons-end/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Aeons-end-1-350x447.jpg"
+  },
+  {
+    "nombre": "Agricola Base",
+    "precio": "$54.990",
+    "url": "https://gatoarcano.cl/product/agricola-base/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/11/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Akropolis",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/akropolis/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Alakablast",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/alakablast/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27713-350x447.jpg"
+  },
+  {
+    "nombre": "Alice ha desaparecido",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/alice-ha-desaparecido/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/4-350x447.jpg"
+  },
+  {
+    "nombre": "Amazonas",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/amazonas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27711-350x447.jpg"
+  },
+  {
+    "nombre": "Anda a lavar",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/anda-a-lavar/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/3-3-350x447.jpg"
+  },
+  {
+    "nombre": "Aqualin: agrupate y venceras",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/aqualin-agrupate-y-venceras/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27592-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al Tren – Japon Italia",
+    "precio": "$36.540",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-japon-italia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/09/10-6-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al Tren – Países Bajos",
+    "precio": "$22.940",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-paises-bajos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/11/Aventureros-al-tren-Países-bajos-1-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al tren Base",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-base/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1553713741926_EDGDW02-1-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al tren Europa",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-europa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/15537137409424_EDGDW03-1-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al Tren Europa – Edición 15º Aniversario",
+    "precio": "$79.990",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-europa-15-aniversario/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Aventureros-al-tren-15-ANI-1-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al Tren Legacy – Leyendas del Oeste",
+    "precio": "$104.990",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-legacy-leyendas-del-oeste/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/A-350x447.jpg"
+  },
+  {
+    "nombre": "Aventureros al Tren! – La vuelta al mundo",
+    "precio": "$79.990",
+    "url": "https://gatoarcano.cl/product/aventureros-al-tren-la-vuelta-al-mundo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Azul",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/azul/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/15537136478492_pbg40020es-350x447.jpg"
+  },
+  {
+    "nombre": "Azul – Jardín de la Reina",
+    "precio": "$38.240",
+    "url": "https://gatoarcano.cl/product/azul-jardin-de-la-reina/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/8-350x447.jpg"
+  },
+  {
+    "nombre": "Azul – Mosaico de Cristal",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/azul-mosaico-de-cristal/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/10/Azul-expansion-1-350x447.jpg"
+  },
+  {
+    "nombre": "Bananagrams",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/bananagrams/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard92-350x447.jpg"
+  },
+  {
+    "nombre": "Bandido",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/bandido/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27841-350x447.jpg"
+  },
+  {
+    "nombre": "Barrage",
+    "precio": "$84.990",
+    "url": "https://gatoarcano.cl/product/barrage/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/26-350x447.jpg"
+  },
+  {
+    "nombre": "Batman: Todo el mundo miente",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/batman-todo-el-mundo-miente/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27522-350x447.jpg"
+  },
+  {
+    "nombre": "Bitoku – Resutoran",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/bitoku-resutoran/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28180-350x447.jpg"
+  },
+  {
+    "nombre": "Block block burrito",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/block-block-burrito/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27883-350x447.jpg"
+  },
+  {
+    "nombre": "Blood Rage – Dioses de Asgard",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/bloodrage-dioses-de-asgard/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/juego-blood-rage-dioses-de-asgard-original-350x447.jpg"
+  },
+  {
+    "nombre": "Blood Rage – Expa. 5 jugadores",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/bloodrage-expa-5-jugadores/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/blood-rage-expansion-para-5-jugadores-350x447.jpg"
+  },
+  {
+    "nombre": "Blood Rage – Misticos de Midgard",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/bloodrage-misticos-de-midgard/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Blood Rage Base",
+    "precio": "$89.990",
+    "url": "https://gatoarcano.cl/product/bloodrage-base/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/cmonbloodragecorebox-350x447.jpg"
+  },
+  {
+    "nombre": "Bloodborne – El juego de tablero",
+    "precio": "$109.990",
+    "url": "https://gatoarcano.cl/product/bloodborne-el-juego-de-tablero/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/09/16-350x447.jpg"
+  },
+  {
+    "nombre": "Bloodborne el juego de tablero: El Bosque Prohibido",
+    "precio": "$50.990",
+    "url": "https://gatoarcano.cl/product/bloodborne-el-juego-de-tablero-el-bosque-prohibido/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27297-350x447.jpg"
+  },
+  {
+    "nombre": "Bloodborne el juego de tablero: El Castillo Olvidado de Cainhurst",
+    "precio": "$50.990",
+    "url": "https://gatoarcano.cl/product/bloodborne-el-juego-de-tablero-el-castillo-olvidado-de-cainhurst/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27286_2-350x447.jpg"
+  },
+  {
+    "nombre": "Bloodborne el juego de tablero: El Sueño del Cazador",
+    "precio": "$33.990",
+    "url": "https://gatoarcano.cl/product/bloodborne-el-juego-de-tablero-el-sueno-del-cazador/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27290-350x447.jpg"
+  },
+  {
+    "nombre": "Bloodborne el juego de tablero: La Mazmorra del Cáliz",
+    "precio": "$67.990",
+    "url": "https://gatoarcano.cl/product/bloodborne-el-juego-de-tablero-la-mazmorra-del-caliz/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27293-350x447.jpg"
+  },
+  {
+    "nombre": "Bloodborne: el juego de cartas",
+    "precio": "$32.990",
+    "url": "https://gatoarcano.cl/product/bloodborne/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/JDM0381_201751810510_f-350x447.jpg"
+  },
+  {
+    "nombre": "Bohnanza",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/bohnanza/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/02/Mesa-de-trabajo352-350x447.jpg"
+  },
+  {
+    "nombre": "Bolsa de papitas",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/bolsa-de-papitas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27577-1-350x447.jpg"
+  },
+  {
+    "nombre": "Borderlands : Mister Torgue’s Arena of Badassery",
+    "precio": "$111.990",
+    "url": "https://gatoarcano.cl/product/borderlands-mister-torgues-arena-of-badassery/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27268-350x447.jpg"
+  },
+  {
+    "nombre": "Brainbox – Animales",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/brainbox-animales/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/01/brainbox-animales-350x447.jpg"
+  },
+  {
+    "nombre": "Brainbox – El mundo",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/brainbox-el-mundo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/01/brainbox-el-mundo-350x447.jpg"
+  },
+  {
+    "nombre": "Brainbox – Harry Potter",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/brainbox-harry-potter/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/6-3-350x447.jpg"
+  },
+  {
+    "nombre": "Break the code",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/break-the-code/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/01/Break-the-code-1-350x447.jpg"
+  },
+  {
+    "nombre": "Bunny Kingdom",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/bunny-kingdom/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/bunny-kingdom-350x447.jpg"
+  },
+  {
+    "nombre": "Calcetimonstruos",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/calcetimonstruos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/Mesa-de-trabajo27182-350x447.jpg"
+  },
+  {
+    "nombre": "Canvas – Reflections",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/canvas-reflections/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/Mesa-de-trabajo27200-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne –  Colinas y ovejas",
+    "precio": "$13.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-colinas-y-ovejas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/carcassonne-colinasyovejas-abiertos-2-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – Cazadores y recolectores",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-cazadores-y-recolectores/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Carcassonne-cazadores-y-recolectores-1-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – Constructores y comerciantes",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-constructores-y-comerciantes/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/carcassonne-constructoresycomerciantes-600x600-1-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – La abadía y el alcalde",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-la-abadia-y-el-alcalde/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/carcassonne-la-abadia-y-el-alcalde-nueva-edicion-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – la princesa y el dragón",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-la-princesa-y-el-dragon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/carcassonne-princesadragon-caja-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – La torre",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-la-torre/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/carcassonne-la-torre-nueva-edicion-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – Las apuestas",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-las-apuestas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/10-2-350x447.jpg"
+  },
+  {
+    "nombre": "Carcassonne – Posadas y Catedrales",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/carcassonne-posadas-y-catedrales/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/Mesa-de-trabajo402-350x447.jpg"
+  },
+  {
+    "nombre": "Cardline – Animales",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/cardline-animales/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Carnegie",
+    "precio": "$76.990",
+    "url": "https://gatoarcano.cl/product/carnegie/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27463-350x447.jpg"
+  },
+  {
+    "nombre": "Cartaventura – Vinland",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/cartaventura-vinland/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo433-350x447.jpg"
+  },
+  {
+    "nombre": "Cat in the Box",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/cat-in-the-box/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/I-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Ciudades y caballeros",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/catan-ciudades-y-caballeros/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/catan_cyc-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Ciudades y caballeros expa.5-6",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/catan-ciudades-y-caballeros-expa-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan_cyc_amp56-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Edición de Viaje",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/catan-edicion-de-viaje/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/09/28-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – El Duelo",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/catan-el-duelo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/Catan-el-duelo-1-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Extensión para 5-6 jugadores",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/catan-expa-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-6-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Mercaderes expa. 5-6",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/catan-mercaderes-expa-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan_mercaderesybarbarosexp-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Mercaderes y Bárbaros",
+    "precio": "$35.990",
+    "url": "https://gatoarcano.cl/product/catan-mercaderes-y-barbaros/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan_mercaderesybarbaros-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Navegantes Expa. 5-6",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/catan-navegantes-expa-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan_navegantes_exp-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Piratas y exploradores",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/catan-piratas-y-exploradores/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan-piratasyexploradores-350x447.jpg"
+  },
+  {
+    "nombre": "Catan – Piratas y exploradores expa. 5-6",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/catan-piratas-y-exploradores-expa-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan-piratas-y-exploradores-exp-5-6-jug-350x447.jpg"
+  },
+  {
+    "nombre": "Cave Evil",
+    "precio": "$109.990",
+    "url": "https://gatoarcano.cl/product/cave-evil/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27672-350x447.jpg"
+  },
+  {
+    "nombre": "Caverna: los granjeros trogloditas",
+    "precio": "$92.990",
+    "url": "https://gatoarcano.cl/product/caverna-los-granjeros-trogloditas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27603-350x447.jpg"
+  },
+  {
+    "nombre": "Cellulose",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/cellulose/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/1-3-350x447.jpg"
+  },
+  {
+    "nombre": "Century – La Ruta de las Especias",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/century-la-ruta-de-las-especias/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/9-350x447.jpg"
+  },
+  {
+    "nombre": "Challengers 2",
+    "precio": "$31.490",
+    "url": "https://gatoarcano.cl/product/challengers-2/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/A-2-350x447.jpg"
+  },
+  {
+    "nombre": "Chicky Boom",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/chicky-boom/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard61_2-350x447.jpg"
+  },
+  {
+    "nombre": "Cielos de Metal",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/cielos-de-metal/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/9-3-350x447.jpg"
+  },
+  {
+    "nombre": "Clank!",
+    "precio": "$54.990",
+    "url": "https://gatoarcano.cl/product/clank/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/17-2-350x447.jpg"
+  },
+  {
+    "nombre": "Clank! en el espacio",
+    "precio": "$54.990",
+    "url": "https://gatoarcano.cl/product/clank-en-el-espacio/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27381-350x447.jpg"
+  },
+  {
+    "nombre": "Clash of Cultures – Edición Monumental",
+    "precio": "$169.990",
+    "url": "https://gatoarcano.cl/product/clash-of-cultures-edicion-monumental/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/02/Mesa-de-trabajo336-350x447.jpg"
+  },
+  {
+    "nombre": "Código Secreto – Dúo",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/codigo-secreto-duo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/c_digo_secreto_-_d_o_1-350x447.jpg"
+  },
+  {
+    "nombre": "Código Secreto – imágenes",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/codigo-secreto-imagenes/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/codigo-secreto-imagenes-350x447.jpg"
+  },
+  {
+    "nombre": "Código Secreto 13+4",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/codigo-secreto-134/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27085-350x447.jpg"
+  },
+  {
+    "nombre": "Combo Breaker",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/combo-breaker/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/6-350x447.jpg"
+  },
+  {
+    "nombre": "Come Nachos",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/come-nachos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28182-350x447.jpg"
+  },
+  {
+    "nombre": "Cometas",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/cometas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28177-350x447.jpg"
+  },
+  {
+    "nombre": "Concordia",
+    "precio": "$61.990",
+    "url": "https://gatoarcano.cl/product/concordia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/07/Concordia-1-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex Challenge",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/cortex-challenge-2/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/15537139217051_cortex-challenge-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex Challenge – Disney",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/cortex-challenge-disney/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28142-1-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex Challenge – Harry Potter",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/cortex-harry-potter/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/Mesa-de-trabajo27134-1-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex Challenge 2",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/cortex-challenge-2-2/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/CORTEX-2-BLANCO-3-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex Kids",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/cortex-kids/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/15537139212946_CortexKids-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex Kids 2",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/cortex-kids-2/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/15537135334147_cortex2kids_3d-350x447.jpg"
+  },
+  {
+    "nombre": "Coup X",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/coup-x/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/COUP-1-350x447.jpg"
+  },
+  {
+    "nombre": "Coyote",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/coyote/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/27-1-350x447.jpg"
+  },
+  {
+    "nombre": "Criaturas de Serie B",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/criaturas-de-serie-b/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/Mesa-de-trabajo27668-350x447.jpg"
+  },
+  {
+    "nombre": "Crónicas de Avel",
+    "precio": "$36.990",
+    "url": "https://gatoarcano.cl/product/cronicas-de-avel/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/10-350x447.jpg"
+  },
+  {
+    "nombre": "Crónicas de Avel – Adventurer Toolkit",
+    "precio": "$4.990",
+    "url": "https://gatoarcano.cl/product/cronicas-de-avel-adventurer-toolkit/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/A-2-350x447.jpg"
+  },
+  {
+    "nombre": "Crop Circles",
+    "precio": "$7.990",
+    "url": "https://gatoarcano.cl/product/crop-circles/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Cthulhu Death May Die – Fear of the unknown",
+    "precio": "$109.990",
+    "url": "https://gatoarcano.cl/product/cthulhu-death-may-die-fear-of-the-unknown/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/1-4-350x447.jpg"
+  },
+  {
+    "nombre": "Cthulhu Death May Die – Ithaqua",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/cthulhu-death-may-die-ithaqua/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/7-1-350x447.jpg"
+  },
+  {
+    "nombre": "Cthulhu Death May Die Season 4",
+    "precio": "$79.990",
+    "url": "https://gatoarcano.cl/product/cthulhu-death-may-die-season-4/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/4-4-350x447.jpg"
+  },
+  {
+    "nombre": "Curao Volao o Weón",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/curao-volao-o-weon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/Mesa-de-trabajo356-350x447.jpg"
+  },
+  {
+    "nombre": "Descent Leyendas de las Tinieblas",
+    "precio": "$164.990",
+    "url": "https://gatoarcano.cl/product/descent-leyendas-de-las-tinieblas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/07/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Descent Leyendas de las Tinieblas – La Guerra del Traidor",
+    "precio": "$143.990",
+    "url": "https://gatoarcano.cl/product/descent-leyendas-de-las-tinieblas-la-guerra-del-traidor/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27676-350x447.jpg"
+  },
+  {
+    "nombre": "Desmaius!",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/desmaius/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/Mesa-de-trabajo27113-350x447.jpg"
+  },
+  {
+    "nombre": "Dice Throne – Ninja vs Treant",
+    "precio": "$33.990",
+    "url": "https://gatoarcano.cl/product/dice-throne-ninja-vs-treant/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/9-6-350x447.jpg"
+  },
+  {
+    "nombre": "Dinosaur World",
+    "precio": "$64.990",
+    "url": "https://gatoarcano.cl/product/dinosaur-world/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27602-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Anniversary",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-anniversary/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-9-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Daydreams",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-daydreams/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537145173587_dixit-5-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Harmonies",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-harmonies/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537136868029_dix10ml-0-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Journey",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-journey/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537146414601_dixit-3-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Memories",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-memories/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537145061124_dixit-6-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Odyssey",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/dixit-odyssey/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537145451027_cover-3d-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Origins",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-origins/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537145180393_dixit-4-1-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit – Revelations",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/dixit-revelations/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537143735528_dix09_main-350x447.jpg"
+  },
+  {
+    "nombre": "Dixit Disney",
+    "precio": "$33.990",
+    "url": "https://gatoarcano.cl/product/dixit-disney/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/OLAF-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble – Connect",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/dobble-connect/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/1-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble – Disney 100 Years of Wonder",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/dobble-100-disney/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27888-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble – Disney princess",
+    "precio": "$12.790",
+    "url": "https://gatoarcano.cl/product/dobble-disney-princess/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/3-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble – Formas y Números",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/dobble-formas-y-numeros/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/08/dobble-1-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble – Kids",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/dobble-kids/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537145428759_dobble-kids-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble – Pixar",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/dobble-pixar/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/23-1-350x447.jpg"
+  },
+  {
+    "nombre": "Dobble Eco Blister",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/dobble-eco-blister/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/20190808092050_1982-2-350x447.jpg"
+  },
+  {
+    "nombre": "Dominion 2º edition",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/dominion-2o-edition/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/dominion-base-caja-350x447.jpg"
+  },
+  {
+    "nombre": "Donde las papas queman",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/donde-las-papas-queman/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/5-1-350x447.jpg"
+  },
+  {
+    "nombre": "Dr. Eureka 2da Edición",
+    "precio": "$28.990",
+    "url": "https://gatoarcano.cl/product/dr-eureka-2da-edicion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/11-350x447.jpg"
+  },
+  {
+    "nombre": "Draftosaurus",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/draftosaurus/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/draftosaurus-350x447.jpg"
+  },
+  {
+    "nombre": "Dragones del mar",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/dragones-del-mar/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28154-350x447.jpg"
+  },
+  {
+    "nombre": "Dungeon Fighter 2da Edición",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/dungeon-fighter-2da-edicion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/13-350x447.jpg"
+  },
+  {
+    "nombre": "Eclipse: El segundo amanecer de la Galaxia",
+    "precio": "$189.990",
+    "url": "https://gatoarcano.cl/product/eclipse-el-segundo-amanecer-de-la-galaxia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/11-1-350x447.jpg"
+  },
+  {
+    "nombre": "Eclipse: el Segundo Amanecer de la Galaxia – Playmat",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/playmat-eclipse-el-segundo-amanecer-de-la-galaxia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/02/Mesa-de-trabajo363-350x447.jpg"
+  },
+  {
+    "nombre": "El Dorado 2da Edición",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/el-dorado-2da-edicion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27981-350x447.jpg"
+  },
+  {
+    "nombre": "El Erudito",
+    "precio": "$28.990",
+    "url": "https://gatoarcano.cl/product/el-erudito/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/el-erudito-caja-350x447.jpg"
+  },
+  {
+    "nombre": "El Señor de los Anillos: batalla por la Tierra Media",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/el-senor-de-los-anillos-batalla-por-la-tierra-media/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/9-350x447.jpg"
+  },
+  {
+    "nombre": "Eldritch Horror: Señales de Carcosa",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/eldritch-horror-senales-de-carcosa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/1-350x447.jpg"
+  },
+  {
+    "nombre": "Eleven: Futbol manager",
+    "precio": "$69.990",
+    "url": "https://gatoarcano.cl/product/eleven-futbol-manager/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27986-350x447.jpg"
+  },
+  {
+    "nombre": "Escape: la maldicion del templo",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/escape-la-maldicion-del-templo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/5-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – El Castillo Prohibido",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-el-castillo-prohibido/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2019/11/1-3-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – El Cementerio de las Tinieblas",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-el-cementerio-de-las-tinieblas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo388-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – El laberinto maldito",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-el-laberinto-maldito/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27590-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – El museo misterioso",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-el-museo-misterioso/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-11-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – El regreso a la cabaña abandonada",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-el-regreso-a-la-cabana-abandonada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/28-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – El Señor de los Anillos",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-el-senor-de-los-anillos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27607-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – La estación polar",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-la-estacion-polar/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-76-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – La feria terrorífica",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-la-feria-terrorifica/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/01/Exit-Feria-terrorifica-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – La isla olvidada",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-la-isla-olvidada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-48-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – La mansión siniestra",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-la-mansion-siniestra/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-12-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – La puerta entre los mundos",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-la-puerta-entre-los-mundos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/E-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – Muerte en el Orient Express",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-muerte-en-el-orient-express/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-49-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – Robo en el Mississipi",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-robo-en-el-mississipi/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/15-2-350x447.jpg"
+  },
+  {
+    "nombre": "Exit – Vuelo hacia lo desconocido",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/exit-vuelo-hacia-lo-desconocido/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/13-2-350x447.jpg"
+  },
+  {
+    "nombre": "Exit + Puzzle – El Faro Solitario",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/exit-puzzle-el-faro-solitario/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/Mesa-de-trabajo360-350x447.jpg"
+  },
+  {
+    "nombre": "Expedición a 5X",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/expedicion-a-5x/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28161-350x447.jpg"
+  },
+  {
+    "nombre": "Exploding Kittens",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/exploding-kittens/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exploding Kittens – el bien contra el mal",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/exploding-kittens-el-bien-contra-el-mal/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/F-350x447.jpg"
+  },
+  {
+    "nombre": "Exploding Kittens – Party Pack",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/exploding-kittens-party-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Exploding-kittens-party-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exploding Kittens – Streaking Kittens",
+    "precio": "$6.990",
+    "url": "https://gatoarcano.cl/product/exploding-kittens-streaking-kittens/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/9-2-350x447.jpg"
+  },
+  {
+    "nombre": "Exploding Kittens NSFW",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/exploding-kittens-nsfw/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2019/11/22-1-350x447.jpg"
+  },
+  {
+    "nombre": "Exploding Minions",
+    "precio": "$23.790",
+    "url": "https://gatoarcano.cl/product/exploding-minions/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/28-350x447.jpg"
+  },
+  {
+    "nombre": "Fairy Tale Inn",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/fairy-tale-inn/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/09/12-2-350x447.jpg"
+  },
+  {
+    "nombre": "Frosthaven",
+    "precio": "$236.990",
+    "url": "https://gatoarcano.cl/product/frosthaven/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/Mesa-de-trabajo27757-350x447.jpg"
+  },
+  {
+    "nombre": "Gaia Project",
+    "precio": "$87.990",
+    "url": "https://gatoarcano.cl/product/gaia-project/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27064-350x447.jpg"
+  },
+  {
+    "nombre": "Galaxy Trucker",
+    "precio": "$45.990",
+    "url": "https://gatoarcano.cl/product/galaxy-trucker/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27031-350x447.jpg"
+  },
+  {
+    "nombre": "Ganímedes",
+    "precio": "$31.990",
+    "url": "https://gatoarcano.cl/product/ganimedes/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/8-350x447.jpg"
+  },
+  {
+    "nombre": "Gasha",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/gasha/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27345-350x447.jpg"
+  },
+  {
+    "nombre": "Gears of Wars: el juego de cartas",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/gears-of-wars-el-juego-de-cartas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/a-350x447.jpg"
+  },
+  {
+    "nombre": "Ghost Adventure",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/ghost-adventure/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27399-350x447.jpg"
+  },
+  {
+    "nombre": "Glen More II: Chronicles",
+    "precio": "$89.990",
+    "url": "https://gatoarcano.cl/product/glen-more-ii-chronicles/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27622-350x447.jpg"
+  },
+  {
+    "nombre": "Gloomhaven",
+    "precio": "$129.990",
+    "url": "https://gatoarcano.cl/product/gloomhaven/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/producto-demo_0002_01-img-main-350x447.jpg"
+  },
+  {
+    "nombre": "Gloomhaven – Círculos Olvidados",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/gloomhaven-circulos-olvidados/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/10-3-350x447.jpg"
+  },
+  {
+    "nombre": "Gloomhaven – Fauces del León",
+    "precio": "$69.990",
+    "url": "https://gatoarcano.cl/product/gloomhaven-fauces-del-leon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/02/3-3-350x447.jpg"
+  },
+  {
+    "nombre": "Gloomhaven – Sticker Circulos Olvidados",
+    "precio": "$8.990",
+    "url": "https://gatoarcano.cl/product/gloomhaven-sticker-forgotten-circles/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/D-350x447.jpg"
+  },
+  {
+    "nombre": "Gloomhaven – Stickers Removibles Fauces del León",
+    "precio": "$6.990",
+    "url": "https://gatoarcano.cl/product/gloomhaven-stickers-removibles-fauces-del-leon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/02/1-3-350x447.jpg"
+  },
+  {
+    "nombre": "Go Cuckoo!",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/go-cuckoo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28168-350x447.jpg"
+  },
+  {
+    "nombre": "Golpe de Fe",
+    "precio": "$42.990",
+    "url": "https://gatoarcano.cl/product/golpe-de-fe/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27442-350x447.jpg"
+  },
+  {
+    "nombre": "Golpe de Fe – Cerezo en flor",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/golpe-de-fe-cerezo-en-flor/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo28008-350x447.jpg"
+  },
+  {
+    "nombre": "Golpe de Fe: Cataclismo",
+    "precio": "$25.990",
+    "url": "https://gatoarcano.cl/product/golpe-de-fe-cataclismo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/cataclismo-350x447.jpg"
+  },
+  {
+    "nombre": "Great Western Trail 2da Ed.",
+    "precio": "$63.990",
+    "url": "https://gatoarcano.cl/product/great-western-trail-2da-ed/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/Mesa-de-trabajo392-1-350x447.jpg"
+  },
+  {
+    "nombre": "Guerra del Anillo: el juego de cartas",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/guerra-del-anillo-el-juego-de-cartas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/1-3-350x447.jpg"
+  },
+  {
+    "nombre": "Guerra del Anillo: Segunda Edición",
+    "precio": "$94.990",
+    "url": "https://gatoarcano.cl/product/la-guerra-del-anillo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-21-at-18.20.04-350x447.jpeg"
+  },
+  {
+    "nombre": "Guerra en el Pacifico – Zombies en el Pacifico",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/guerra-en-el-pacifico-zombies-en-el-pacifico/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard63_2-350x447.jpg"
+  },
+  {
+    "nombre": "Hallertau",
+    "precio": "$89.990",
+    "url": "https://gatoarcano.cl/product/hallertau/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27949-350x447.jpg"
+  },
+  {
+    "nombre": "Hanabi ¡Qué espectáculo!",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/hanabi-que-espectaculo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Hanabi-que-espectaculo-350x447.jpg"
+  },
+  {
+    "nombre": "Hanamikoji",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/hanamikoji/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27406-350x447.jpg"
+  },
+  {
+    "nombre": "Hanamikoji: La senda de la Geisha",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/hanamikoji-la-senda-de-la-geisha/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard20-350x447.png"
+  },
+  {
+    "nombre": "Happy Little Dinosaurs",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/happy-little-dinosaurs/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/20-350x447.jpg"
+  },
+  {
+    "nombre": "Happy Little Dinosaurs – Citas desastrosas",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/happy-little-dinosaurs-citas-desastrosas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/Mesa-de-trabajo27755-350x447.jpg"
+  },
+  {
+    "nombre": "Happy Little Dinosaurs – Expa 5-6",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/happy-little-dinosaurs-expa-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27586-1-350x447.jpg"
+  },
+  {
+    "nombre": "Happy Little Dinosaurs – Los peligros de la pubertad",
+    "precio": "$13.990",
+    "url": "https://gatoarcano.cl/product/happy-little-dinosaurs-los-peligros-de-la-pubertad/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27584-1-350x447.jpg"
+  },
+  {
+    "nombre": "Happy Salmon",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/happy-salmon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27640-350x447.jpg"
+  },
+  {
+    "nombre": "Here to Slay – Barbaros y druidas",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/here-to-slay-barbaros-y-druidas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27935-350x447.jpg"
+  },
+  {
+    "nombre": "Here to Slay – Berserkers y nigromantes",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/here-to-slay-berserkers-y-nigromantes/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27937-350x447.jpg"
+  },
+  {
+    "nombre": "Hero Realms – expansión de campaña La Aldea Perdida",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/hero-realms-expansion-de-campana-la-aldea-perdida/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27370-350x447.jpg"
+  },
+  {
+    "nombre": "Hero Realms – La perdición de Thandar",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/hero-realms-la-perdicion-de-thandar/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/X1-350x447.jpg"
+  },
+  {
+    "nombre": "Hint Base",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/hint-base/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/14-350x447.jpg"
+  },
+  {
+    "nombre": "Hint Pocket",
+    "precio": "$7.990",
+    "url": "https://gatoarcano.cl/product/hint-pocket/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/Mesa-de-trabajo27761-350x447.jpg"
+  },
+  {
+    "nombre": "Hula Hula",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/hula-hula/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/9-1-350x447.jpg"
+  },
+  {
+    "nombre": "IKI",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/iki/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/9-350x447.jpg"
+  },
+  {
+    "nombre": "Imperium: clásicos",
+    "precio": "$32.990",
+    "url": "https://gatoarcano.cl/product/imperium-clasicos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/1-350x447.jpg"
+  },
+  {
+    "nombre": "Imploding Kittens",
+    "precio": "$12.740",
+    "url": "https://gatoarcano.cl/product/imploding-kittens/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/Implding-KITTENS-350x447.jpg"
+  },
+  {
+    "nombre": "Insondable",
+    "precio": "$36.990",
+    "url": "https://gatoarcano.cl/product/insondable/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/36-2-350x447.jpg"
+  },
+  {
+    "nombre": "Ion – El juego de construcción de compuestos",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/ion-el-juego-de-construccion-de-compuestos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/07/Ion-1-350x447.jpg"
+  },
+  {
+    "nombre": "Istambul Big Box",
+    "precio": "$63.990",
+    "url": "https://gatoarcano.cl/product/istambul-big-box/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/istanbul-350x447.jpg"
+  },
+  {
+    "nombre": "Jaipur",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/jaipur/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-13-350x447.jpg"
+  },
+  {
+    "nombre": "Juguemos mas cerca",
+    "precio": "$7.990",
+    "url": "https://gatoarcano.cl/product/juguemos-mas-cerca/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/Mesa-de-trabajo27665-350x447.jpg"
+  },
+  {
+    "nombre": "King of Monster Island",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/king-of-monster-island/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27895-350x447.jpg"
+  },
+  {
+    "nombre": "Kitchen Rush – Postres Deliciosos",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/kitchen-rush-postres-deliciosos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/07/Kitchen-rush-POSTRES-350x447.jpg"
+  },
+  {
+    "nombre": "Klask – Kit de repuesto",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/klask-kit-de-repuesto/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27589-350x447.jpg"
+  },
+  {
+    "nombre": "La Asamblea del Mal",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/la-asamblea-del-mal/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/1-350x447.jpg"
+  },
+  {
+    "nombre": "La Búsqueda del Planeta X",
+    "precio": "$45.990",
+    "url": "https://gatoarcano.cl/product/la-busqueda-del-planeta-x/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "La Escalera Encantada",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/la-escalera-encantada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/2-11-350x447.jpg"
+  },
+  {
+    "nombre": "La Guerra del Anillo – accesorio el Rey Brujo",
+    "precio": "$19.490",
+    "url": "https://gatoarcano.cl/product/la-guerra-del-anillo-accesorio-el-rey-brujo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/5-8-350x447.jpg"
+  },
+  {
+    "nombre": "La Guerra del Anillo – Game mat",
+    "precio": "$74.990",
+    "url": "https://gatoarcano.cl/product/la-guerra-del-anillo-game-mat/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27600-350x447.jpg"
+  },
+  {
+    "nombre": "La Isla de los Gatos",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/la-isla-de-los-gatos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/La-isla-de-los-gatos-1-350x447.jpg"
+  },
+  {
+    "nombre": "La isla prohibida",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/la-isla-prohibida/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/2-6-350x447.jpg"
+  },
+  {
+    "nombre": "La Princesa y el Guisante – Buenas noches",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/la-princesa-y-el-guisante-buenas-noches/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27082-350x447.jpg"
+  },
+  {
+    "nombre": "La Torre Encantada",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/la-torre-encantada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/latorre-encatanda-caja1-350x447.jpg"
+  },
+  {
+    "nombre": "La Tripulación: Misión mar profundo",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/la-tripulacion-mision-mar-profundo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27613-350x447.jpg"
+  },
+  {
+    "nombre": "Lacrimosa",
+    "precio": "$41.000",
+    "url": "https://gatoarcano.cl/product/lacrimosa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Las leyendas de Andor",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/las-leyendas-de-andor/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/las-leyendas-de-andor-350x447.jpg"
+  },
+  {
+    "nombre": "Las Leyendas de Andor – El escudo de las estrellas",
+    "precio": "$20.990",
+    "url": "https://gatoarcano.cl/product/las-leyendas-de-andor-el-escudo-de-las-estrellas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/Andor-escudo-350x447.jpg"
+  },
+  {
+    "nombre": "Las Leyendas de Andor – el frío eterno",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/las-leyendas-de-andor-el-frio-eterno/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28192-350x447.jpg"
+  },
+  {
+    "nombre": "Las Leyendas de Andor – La Última Esperanza",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/las-leyendas-de-andor-la-ultima-esperanza/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo27009-350x447.jpg"
+  },
+  {
+    "nombre": "Las Leyendas de Andor Junior",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/las-leyendas-de-andor-junior/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/20-1-350x447.jpg"
+  },
+  {
+    "nombre": "Las Ruinas perdidas de Arnak",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/las-ruinas-perdidas-de-arnak/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/1-6-350x447.jpg"
+  },
+  {
+    "nombre": "Las Ruinas Perdidas de Arnak – Líderes de la Expedición",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/las-ruinas-perdidas-de-arnak-expa-lideres/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27366-350x447.jpg"
+  },
+  {
+    "nombre": "Leo va al barbero",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/leo-va-al-barbero/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/Encapsulador-de-productos-web-gato-arcano-AFD-3-350x447.jpg"
+  },
+  {
+    "nombre": "Living Forest",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/living-forest/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27459-350x447.jpg"
+  },
+  {
+    "nombre": "Living Forest – Kodama",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/living-forest-kodama/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27954-350x447.jpg"
+  },
+  {
+    "nombre": "Llama",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/llama/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/Llama-3-350x447.jpg"
+  },
+  {
+    "nombre": "Looney Tunes Mayhem",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/looney-tunes-mayhem/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/Mesa-de-trabajo27337-350x447.jpg"
+  },
+  {
+    "nombre": "Los Odiosos 7",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/los-odiosos-7/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-16-350x447.jpg"
+  },
+  {
+    "nombre": "Los palacios de Carrara",
+    "precio": "$62.990",
+    "url": "https://gatoarcano.cl/product/los-palacios-de-carrara/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27547-350x447.jpg"
+  },
+  {
+    "nombre": "Lost Cities Exploradores",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/lost-cities-exploradores/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/7-6-350x447.jpg"
+  },
+  {
+    "nombre": "Mada",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/mada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/11-350x447.jpg"
+  },
+  {
+    "nombre": "Mage Knight Edición Definitiva",
+    "precio": "$124.990",
+    "url": "https://gatoarcano.cl/product/mage-knight-edicion-definitiva/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/Mesa-de-trabajo404-350x447.jpg"
+  },
+  {
+    "nombre": "Magic Maze",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/magic-maze/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/11/Magic-maze-1-350x447.jpg"
+  },
+  {
+    "nombre": "Mala leche",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/mala-leche/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-17-350x447.jpg"
+  },
+  {
+    "nombre": "Mala Leche con Plátano",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/mala-leche-con-platano/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/2-14-350x447.jpg"
+  },
+  {
+    "nombre": "Mansiones de la Locura – Calles de Arkham",
+    "precio": "$51.990",
+    "url": "https://gatoarcano.cl/product/mansiones-de-la-locura-calles-de-arkham/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/6-3-350x447.jpg"
+  },
+  {
+    "nombre": "Mansiones de la Locura – La senda de la serpiente",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/mansiones-de-la-locura-la-senda-de-la-serpiente/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/Las-mansiones-de-la-locura-La-senda-de-la-serpiente-1-350x447.jpg"
+  },
+  {
+    "nombre": "Mansiones de la locura – Viajes escalofriantes",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/mansiones-de-la-locura-viajes-escalofriantes/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/mansiones-viajes-350x447.jpg"
+  },
+  {
+    "nombre": "Mantis",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/mantis/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27648-350x447.jpg"
+  },
+  {
+    "nombre": "Marea Alta",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/marea-alta/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/12-1-350x447.jpg"
+  },
+  {
+    "nombre": "Marrakesh",
+    "precio": "$79.990",
+    "url": "https://gatoarcano.cl/product/marrakesh/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/17-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Champions LCG – Heroes Reunidos",
+    "precio": "$69.990",
+    "url": "https://gatoarcano.cl/product/marvel-champions-heroes-reunidos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/heroes-1-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Crisis Protocol – Caja Inicial Los más Poderosos de la Tierra",
+    "precio": "$127.490",
+    "url": "https://gatoarcano.cl/product/marvel-crisis-protocol-caja-inicial-los-mas-poderosos-de-la-tierra/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/8-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Crisis Protocol – Herramientas de medición",
+    "precio": "$11.050",
+    "url": "https://gatoarcano.cl/product/marvel-crisis-protocol-herramientas-de-medicion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/3-41-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Dagger",
+    "precio": "$71.990",
+    "url": "https://gatoarcano.cl/product/marvel-dagger/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27685-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel United Base",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/marvel-united-base-preventa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/BASE-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Zombies: Fantastic 4 Under Siege",
+    "precio": "$50.990",
+    "url": "https://gatoarcano.cl/product/marvel-zombies-fantastic-4-under-siege/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27319-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Zombies: Guardians of the Galaxy",
+    "precio": "$42.490",
+    "url": "https://gatoarcano.cl/product/marvel-zombies-guardians-of-the-galaxy/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27315-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Zombies: Heroe’s Resistance",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/marvel-zombies-heroes-resistance/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27682-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Zombies: Hydra Resurrection",
+    "precio": "$50.990",
+    "url": "https://gatoarcano.cl/product/marvel-zombies-hydra-resurrection/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27317-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Zombies: Undead avengers",
+    "precio": "$129.990",
+    "url": "https://gatoarcano.cl/product/marvel-zombies/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27323-350x447.jpg"
+  },
+  {
+    "nombre": "Marvel Zombies: X-Men Resistance",
+    "precio": "$116.990",
+    "url": "https://gatoarcano.cl/product/marvel-zombies-x-men-resistance/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27321-350x447.jpg"
+  },
+  {
+    "nombre": "Mazescape – Cryo-C",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/mazescape-cryo-c/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27434-350x447.jpg"
+  },
+  {
+    "nombre": "Mazescape – Labyrinthos",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/mazescape-labyrinthos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/Mazescape-5-350x447.jpg"
+  },
+  {
+    "nombre": "Mazescape Kids – Hipnos",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/mazescape-kids-hipnos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27437-350x447.jpg"
+  },
+  {
+    "nombre": "Meeple Land",
+    "precio": "$32.990",
+    "url": "https://gatoarcano.cl/product/meeple-land/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/01/Meeple-land-1-350x447.jpg"
+  },
+  {
+    "nombre": "Memoarrr! Harry Potter",
+    "precio": "$14.390",
+    "url": "https://gatoarcano.cl/product/memoarrr-harry-potter/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/25-350x447.jpg"
+  },
+  {
+    "nombre": "Mental blocks",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/mental-blocks/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/Mental-blocks-350x447.jpg"
+  },
+  {
+    "nombre": "Metal Gear Solid – The Board Game",
+    "precio": "$109.990",
+    "url": "https://gatoarcano.cl/product/metal-gear-solid-the-board-game/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/15-350x447.jpg"
+  },
+  {
+    "nombre": "Mi primer tesoro de Juegos",
+    "precio": "$40.990",
+    "url": "https://gatoarcano.cl/product/mi-primer-tesoro-de-juegos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27075-350x447.jpg"
+  },
+  {
+    "nombre": "Mille Fiori",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/mille-fiori/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27621-350x447.jpg"
+  },
+  {
+    "nombre": "Mixmo",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/mixmo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2019/11/1-350x447.jpg"
+  },
+  {
+    "nombre": "Monster Chef",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/monster-chef/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27715-350x447.jpg"
+  },
+  {
+    "nombre": "Monumental",
+    "precio": "$69.990",
+    "url": "https://gatoarcano.cl/product/monumental-juego-de-mesa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27877-350x447.jpg"
+  },
+  {
+    "nombre": "Monumental – Reinos perdidos",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/monumental-reinos-perdidos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27880-350x447.jpg"
+  },
+  {
+    "nombre": "Munchkin",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/munchkin/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-14-350x447.jpg"
+  },
+  {
+    "nombre": "Mysterium – Hidden Signs",
+    "precio": "$10.990",
+    "url": "https://gatoarcano.cl/product/mysterium-hidden-signs/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/23-350x447.jpg"
+  },
+  {
+    "nombre": "Nebula",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/nebula/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28157-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Alien Kings",
+    "precio": "$36.540",
+    "url": "https://gatoarcano.cl/product/nemesis-alien-kings/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/1-3-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Carnomorfos",
+    "precio": "$50.990",
+    "url": "https://gatoarcano.cl/product/nemesis-carnomorfos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/9-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Lockdown",
+    "precio": "$184.990",
+    "url": "https://gatoarcano.cl/product/nemesis-lockdown/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/Mesa-de-trabajo387-2-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Lockdown Alien Kings",
+    "precio": "$31.440",
+    "url": "https://gatoarcano.cl/product/nemesis-lockdown-alien-kings/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/10/4-2-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Lockdown Spacecats",
+    "precio": "$25.490",
+    "url": "https://gatoarcano.cl/product/nemesis-lockdown-spacecats/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/10/7-2-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Sembradores del Vacío",
+    "precio": "$50.990",
+    "url": "https://gatoarcano.cl/product/nemesis-sembradores-del-vacio/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/11-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Spacecats",
+    "precio": "$22.090",
+    "url": "https://gatoarcano.cl/product/nemesis-spacecats/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/6-1-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis – Terrain Expansion",
+    "precio": "$33.140",
+    "url": "https://gatoarcano.cl/product/nemesis-terrain-expansion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/4-1-350x447.jpg"
+  },
+  {
+    "nombre": "Nemesis: Lockdown – Recompensas de Campaña",
+    "precio": "$98.990",
+    "url": "https://gatoarcano.cl/product/nemesis-lockdown-recompensas-de-campana/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/6-3-350x447.jpg"
+  },
+  {
+    "nombre": "Next Station: London",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/next-station-london/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28148-1-350x447.jpg"
+  },
+  {
+    "nombre": "No Game Over",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/no-game-over/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/2-3-350x447.jpg"
+  },
+  {
+    "nombre": "Not Alone",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/not-alone/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27516-350x447.jpg"
+  },
+  {
+    "nombre": "Not Alone – Exploration",
+    "precio": "$11.040",
+    "url": "https://gatoarcano.cl/product/not-alone-exploration/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/17-350x447.jpg"
+  },
+  {
+    "nombre": "Not Alone – Santuario",
+    "precio": "$18.690",
+    "url": "https://gatoarcano.cl/product/not-alone-santuario/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/19-350x447.jpg"
+  },
+  {
+    "nombre": "Oath: crónicas del imperio y el exilio",
+    "precio": "$149.990",
+    "url": "https://gatoarcano.cl/product/oath-cronicas-del-imperio-y-el-exilio/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/11-2-350x447.jpg"
+  },
+  {
+    "nombre": "Obscurio",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/obscurio/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/20190830170345_2129-350x447.jpg"
+  },
+  {
+    "nombre": "Onirim",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/onirim/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/07/onirim-1-350x447.jpg"
+  },
+  {
+    "nombre": "Osopark",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/osopark/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-55-350x447.jpg"
+  },
+  {
+    "nombre": "Pack expansiones Bloodborne: el Juego de Tablero",
+    "precio": "$214.990",
+    "url": "https://gatoarcano.cl/product/pack-expansiones-bloodborne-el-juego-de-tablero/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/1-4-350x447.jpg"
+  },
+  {
+    "nombre": "Pack War Chest",
+    "precio": "$99.420",
+    "url": "https://gatoarcano.cl/product/pack-war-chest/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo467-350x447.jpg"
+  },
+  {
+    "nombre": "Paleo",
+    "precio": "$42.990",
+    "url": "https://gatoarcano.cl/product/paleo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Paleo-1-350x447.jpg"
+  },
+  {
+    "nombre": "Paleo – Un nuevo comienzo",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/paleo-un-nuevo-comienzo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/Mesa-de-trabajo401-350x447.jpg"
+  },
+  {
+    "nombre": "Pandemic – Iberia",
+    "precio": "$48.990",
+    "url": "https://gatoarcano.cl/product/pandemic-iberia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/22-350x447.jpg"
+  },
+  {
+    "nombre": "Patchwork",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/patchwork/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Patchwork-1-350x447.jpg"
+  },
+  {
+    "nombre": "Patchwork – Halloween",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/patchwork-halloween/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/9-2-350x447.jpg"
+  },
+  {
+    "nombre": "Patchwork – San Valentin",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/patchwork-san-valentin/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard74-350x447.jpg"
+  },
+  {
+    "nombre": "Pequeñas Grandes Mazmorras",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/pequenas-grandes-mazmorras/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28184-350x447.jpg"
+  },
+  {
+    "nombre": "Pequeñas grandes mazmorras: Hazañas",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/pequenas-grandes-mazmorras-hazanas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/28-350x447.jpg"
+  },
+  {
+    "nombre": "Pequeños Grandes Dinosaurios",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/pequenos-grandes-dinosaurios/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/peq-grande-din-350x447.jpg"
+  },
+  {
+    "nombre": "Pequeños Grandes Mechs",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/pequenos-grandes-mechs/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/mechs-1-350x447.jpg"
+  },
+  {
+    "nombre": "Pequeños grandes Vikingos",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/pequenos-grandes-vikingos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28187-350x447.jpg"
+  },
+  {
+    "nombre": "Periodic",
+    "precio": "$41.990",
+    "url": "https://gatoarcano.cl/product/periodic/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard49-350x447.jpg"
+  },
+  {
+    "nombre": "Pila perruna",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/pila-perruna/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27961-350x447.jpg"
+  },
+  {
+    "nombre": "Planeta Desconocido edición Deluxe",
+    "precio": "$91.990",
+    "url": "https://gatoarcano.cl/product/planeta-desconocido/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/planeta-desconocido-350x447.jpg"
+  },
+  {
+    "nombre": "Plenus",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/plenus/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/plenus-caja-350x447.jpg"
+  },
+  {
+    "nombre": "Pócimas y Brebajes",
+    "precio": "$42.990",
+    "url": "https://gatoarcano.cl/product/pocimas-y-brebajes/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/10/Pócimas-y-brebajes-1-350x447.jpg"
+  },
+  {
+    "nombre": "Pócimas y Brebajes jr.",
+    "precio": "$35.990",
+    "url": "https://gatoarcano.cl/product/pocimas-y-brebajes-jr/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27903-350x447.jpg"
+  },
+  {
+    "nombre": "Pradera",
+    "precio": "$45.990",
+    "url": "https://gatoarcano.cl/product/pradera-reserva/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Pradera – Rio Abajo",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/pradera-rio-abajo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/10/pradera-1-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Blood Rage + Místicos de Midgard",
+    "precio": "$89.990",
+    "url": "https://gatoarcano.cl/product/promo-blood-rage/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2024/01/MARVEL-UNITED-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Concept + Kids",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/promo-concept/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/1-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Descent: Leyendas de las Tinieblas + La guerra del Traidor",
+    "precio": "$164.990",
+    "url": "https://gatoarcano.cl/product/promo-descent-leyendas-de-las-tinieblas-leyendas-del-traidor/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2024/01/DESCENT-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Dixit Odyssey + Origins",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/promo-dixit-odyssey-origins/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2024/01/DIXIT-OIGINS-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Marvel United + Entra en el Spider-verso",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/promo-marvel-united/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2024/01/CAMPANAS-2024-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Pradera + Río Abajo",
+    "precio": "$45.990",
+    "url": "https://gatoarcano.cl/product/promo-pradera/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2024/01/PRADERA-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – Rummikub + portátil",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/promo-rummikub/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/6-350x447.jpg"
+  },
+  {
+    "nombre": "Promo – The Island + extensión 5-6",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/promo-the-island-extension-5-6/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/3-350x447.jpg"
+  },
+  {
+    "nombre": "Red Cathedral",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/red-cathedral/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/The-red-cathedral-1-350x447.jpg"
+  },
+  {
+    "nombre": "Regicide",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/regicide/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27430-350x447.jpg"
+  },
+  {
+    "nombre": "Rescate",
+    "precio": "$33.990",
+    "url": "https://gatoarcano.cl/product/rescate/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/08/rescate-1-350x447.jpg"
+  },
+  {
+    "nombre": "Revive",
+    "precio": "$74.990",
+    "url": "https://gatoarcano.cl/product/revive/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/Mesa-de-trabajo27926-350x447.jpg"
+  },
+  {
+    "nombre": "Root – Inserto",
+    "precio": "$11.190",
+    "url": "https://gatoarcano.cl/product/root-inserto-deluxe/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Inserto-Deluxe-root-3DP-Pack-completo-1-350x447.jpg"
+  },
+  {
+    "nombre": "Saboteur",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/saboteur/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-27-350x447.jpg"
+  },
+  {
+    "nombre": "Sagrada",
+    "precio": "$41.990",
+    "url": "https://gatoarcano.cl/product/sagrada/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-28-350x447.jpg"
+  },
+  {
+    "nombre": "Sagrada – Ext. 5-6 jugadores",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/sagrada-ext-5-6-jugadores/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/3-9-350x447.jpg"
+  },
+  {
+    "nombre": "Scooby Doo!",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/scooby-doo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/Mesa-de-trabajo27329-350x447.jpg"
+  },
+  {
+    "nombre": "Scythe – Monedas",
+    "precio": "$36.990",
+    "url": "https://gatoarcano.cl/product/scythe-monedas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/52-350x447.jpg"
+  },
+  {
+    "nombre": "Sheriff de Nottingham",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/sheriff-de-nottingham/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/9-350x447.jpg"
+  },
+  {
+    "nombre": "Sherlock Holmes Detective Asesor: Carlton House & Queen’s Park",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/sherlock-holmes-detective-asesor-carlton-house-queens-park/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/Mesa-de-trabajo354-350x447.jpg"
+  },
+  {
+    "nombre": "Sherlock Holmes Detective Asesor: Jack el Destripador y Aventuras en West End",
+    "precio": "$42.990",
+    "url": "https://gatoarcano.cl/product/sherlock-holmes-detective-asesor-jack-el-destripador-y-aventuras-en-west-end/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/Mesa-de-trabajo359-350x447.jpg"
+  },
+  {
+    "nombre": "Similo – Fábulas",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/similo-fabulas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/7-350x447.jpg"
+  },
+  {
+    "nombre": "Similo – Historia",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/similo-historia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/4-2-350x447.jpg"
+  },
+  {
+    "nombre": "Similo – Mitos",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/similo-mitos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/1-3-350x447.jpg"
+  },
+  {
+    "nombre": "Skull",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/skull/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-34-350x447.jpg"
+  },
+  {
+    "nombre": "Skymines",
+    "precio": "$83.990",
+    "url": "https://gatoarcano.cl/product/skymines/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/41-350x447.jpg"
+  },
+  {
+    "nombre": "Sleeping Gods",
+    "precio": "$104.990",
+    "url": "https://gatoarcano.cl/product/sleeping-gods/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27518-350x447.jpg"
+  },
+  {
+    "nombre": "Soviet Kitchen",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/soviet-kitchen/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/Mesa-de-trabajo391-350x447.jpg"
+  },
+  {
+    "nombre": "Splendor – Marvel",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/splendor-marvel/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/Marvel-Splendor-350x447.jpg"
+  },
+  {
+    "nombre": "Star Realms",
+    "precio": "$13.990",
+    "url": "https://gatoarcano.cl/product/star-realms/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/Star-Realms-1-350x447.jpg"
+  },
+  {
+    "nombre": "Star Realms – Escenarios",
+    "precio": "$2.990",
+    "url": "https://gatoarcano.cl/product/star-realms-escenarios/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/scenarios-350x447.jpg"
+  },
+  {
+    "nombre": "Star Realms – Mazo mando",
+    "precio": "$23.940",
+    "url": "https://gatoarcano.cl/product/star-realms-mazo-mando-la-unificacion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard141-350x447.png"
+  },
+  {
+    "nombre": "Star Realms – Sobre Gambito",
+    "precio": "$2.590",
+    "url": "https://gatoarcano.cl/product/star-realms-sobre-gambito/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/Star-realms-Gambito-350x447.jpg"
+  },
+  {
+    "nombre": "Star Realms – United (pack 4 sobres)",
+    "precio": "$11.960",
+    "url": "https://gatoarcano.cl/product/star-realms-united/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard140-350x447.png"
+  },
+  {
+    "nombre": "Star Wars Rebellion",
+    "precio": "$107.990",
+    "url": "https://gatoarcano.cl/product/star-wars-rebellion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537132096867_ffsw03_1-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars Rivals – Dark sight",
+    "precio": "$4.990",
+    "url": "https://gatoarcano.cl/product/star-wars-rivals-dark-sight/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard98-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars Rivals – Light side",
+    "precio": "$4.990",
+    "url": "https://gatoarcano.cl/product/star-wars-rivals-light-side/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard92-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Las Guerras Clon",
+    "precio": "$52.990",
+    "url": "https://gatoarcano.cl/product/star-wars-las-guerras-clon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/10/f-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – Fistful of credit cad Bane",
+    "precio": "$38.240",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-fistful-of-credit-cad-bane/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/3-2-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – Ground cover terrain pack",
+    "precio": "$52.990",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-ground-cover-terrain-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27901-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – High ground terrain pack",
+    "precio": "$52.990",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-high-ground-terrain-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27909-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – Jedi hunters squad pack",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-jedi-hunters-squad-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27710-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – Measuring tools",
+    "precio": "$12.740",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-measuring-tools/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27898-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – Sabotage showdown",
+    "precio": "$12.740",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-sabotage-showdown/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – We are brave Squad pack",
+    "precio": "$38.240",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-we-are-brave-squad-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/13-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – Witches of Dathomir squad pack",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-witches-of-dathomir-squad-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/Mesa-de-trabajo27752-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint – You cannot run duel pack",
+    "precio": "$62.990",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-you-cannot-run-duel-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27713-350x447.jpg"
+  },
+  {
+    "nombre": "Star Wars: Shatterpoint Hello there – General Obi-Wan Kenobi squad pack",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/star-wars-shatterpoint-hello-there-general-obi-wan-kenobi-squad-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27903-350x447.jpg"
+  },
+  {
+    "nombre": "Starcadia Quest",
+    "precio": "$74.990",
+    "url": "https://gatoarcano.cl/product/starcadia-quest/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/10/Starcadia-Quest-1-350x447.jpg"
+  },
+  {
+    "nombre": "Stockpile Edición Épica",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/stockpile-edicion-epica/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/02/Mesa-de-trabajo-74-350x447.png"
+  },
+  {
+    "nombre": "Stone Age",
+    "precio": "$39.990",
+    "url": "https://gatoarcano.cl/product/stone-age/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/08/6-4-350x447.jpg"
+  },
+  {
+    "nombre": "Story Cubes – Classic",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/story-cubes-classic/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/10-350x447.jpg"
+  },
+  {
+    "nombre": "Story Cubes – Star Wars",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/story-cubes-star-wars/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/07/SC-SW-1-350x447.jpg"
+  },
+  {
+    "nombre": "Stranger Things Attack of the Mind Flayer",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/stranger-things-attack-of-the-mind-flayer/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/A-1-350x447.jpg"
+  },
+  {
+    "nombre": "Stranger Things: Upside Down",
+    "precio": "$45.990",
+    "url": "https://gatoarcano.cl/product/stranger-things-upside-down/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27615-350x447.jpg"
+  },
+  {
+    "nombre": "Super Cortex Challenge",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/super-cortex-challenge/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/Mesa-de-trabajo27128-1-350x447.jpg"
+  },
+  {
+    "nombre": "Sushi Go",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/sushi-go/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/3-31-350x447.jpg"
+  },
+  {
+    "nombre": "Sushi Go Party",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/sushi-go-party/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/09/1-11-350x447.jpg"
+  },
+  {
+    "nombre": "Sword & Sorcery: Crónicas Antiguas",
+    "precio": "$119.990",
+    "url": "https://gatoarcano.cl/product/sword-sorcery-cronicas-antiguas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27609-350x447.jpg"
+  },
+  {
+    "nombre": "Tabannusi: constructores de Ur",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/tabannusi-constructores-de-ur/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/3-350x447.jpg"
+  },
+  {
+    "nombre": "Tainted Grail – La caída de Avalon",
+    "precio": "$134.990",
+    "url": "https://gatoarcano.cl/product/tainted-grail-la-caida-de-avalon/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/02/Mesa-de-trabajo230-350x447.jpg"
+  },
+  {
+    "nombre": "Tartapies",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/tartapies/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/5-1-350x447.jpg"
+  },
+  {
+    "nombre": "Teen Titans GO! Mayhem",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/teen-titans-go-mayhem/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27341-350x447.jpg"
+  },
+  {
+    "nombre": "Telestrations",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/telestrations/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/01/16-1-350x447.jpg"
+  },
+  {
+    "nombre": "Telestrations Afterdark",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/telestrations-afterdark/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/1-1-350x447.jpg"
+  },
+  {
+    "nombre": "Ten",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/ten/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/11/1-350x447.jpg"
+  },
+  {
+    "nombre": "Terraforming Mars",
+    "precio": "$65.990",
+    "url": "https://gatoarcano.cl/product/terraforming-mars/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/Terraforming-mars-1-350x447.jpg"
+  },
+  {
+    "nombre": "Terraforming Mars – Colonias",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/terraforming-mars-colonias/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Terraforming-mars-colonias-1-350x447.jpg"
+  },
+  {
+    "nombre": "Terraforming Mars – Conflictos",
+    "precio": "$30.990",
+    "url": "https://gatoarcano.cl/product/terraforming-mars-conflictos-preventa/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/Terraformers-Mars-Conflictos-350x447.jpg"
+  },
+  {
+    "nombre": "Terraforming Mars – Tablero de Jugador",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/terraforming-mars-tablero-de-jugador/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Terraforming-Mars-Tableros-de-jugador-3-350x447.jpg"
+  },
+  {
+    "nombre": "Terraforming Mars – Venus next",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/terraforming-mars-venus-next/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-57-350x447.jpg"
+  },
+  {
+    "nombre": "The Gallerist",
+    "precio": "$164.990",
+    "url": "https://gatoarcano.cl/product/the-gallerist/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/C-1-350x447.jpg"
+  },
+  {
+    "nombre": "The guild of merchant explorers",
+    "precio": "$51.990",
+    "url": "https://gatoarcano.cl/product/the-guild-of-merchant-explorers/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/3-1-350x447.jpg"
+  },
+  {
+    "nombre": "The Island",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/the-island/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-58-350x447.jpg"
+  },
+  {
+    "nombre": "The Island – Triple expansion",
+    "precio": "$18.990",
+    "url": "https://gatoarcano.cl/product/the-island-triple-expansion/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-59-350x447.jpg"
+  },
+  {
+    "nombre": "The Mind: Soulmates",
+    "precio": "$16.990",
+    "url": "https://gatoarcano.cl/product/the-mind-soulmates/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28152-1-350x447.jpg"
+  },
+  {
+    "nombre": "The Number",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/the-number/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/the-number-350x447.jpg"
+  },
+  {
+    "nombre": "Three sisters",
+    "precio": "$25.990",
+    "url": "https://gatoarcano.cl/product/three-sisters/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/07/5-7-350x447.jpg"
+  },
+  {
+    "nombre": "Throw Throw Avocado",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/throw-throw-avocado/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/08/Mesa-de-trabajo27112-350x447.jpg"
+  },
+  {
+    "nombre": "Throw Throw Burrito",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/throw-throw-burrito/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/10/1-350x447.jpg"
+  },
+  {
+    "nombre": "Throw Throw Burrito – burrito battle pack",
+    "precio": "$9.990",
+    "url": "https://gatoarcano.cl/product/throw-throw-burrito-burrito-battle-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/Artboard142-350x447.png"
+  },
+  {
+    "nombre": "Throw Throw Burrito Edición Extrema",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/throw-throw-burrito-edicion-extrema/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/10/7-350x447.jpg"
+  },
+  {
+    "nombre": "Time’s Up! – Family",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/times-up-family/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/11/Times-up-family-1-350x447.jpg"
+  },
+  {
+    "nombre": "Timeline – Chile",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/timeline-chile/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/07/TimeLine-Chile-4-350x447.jpg"
+  },
+  {
+    "nombre": "Timeline Ecopack – Eventos",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/timeline-ecopack-eventos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/09/7-6-350x447.jpg"
+  },
+  {
+    "nombre": "Timeline Ecopack – Inventos",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/timeline-ecopack-inventos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/09/6-6-350x447.jpg"
+  },
+  {
+    "nombre": "Tiranos del Underdark",
+    "precio": "$53.990",
+    "url": "https://gatoarcano.cl/product/tiranos-del-underdark/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/03/Mesa-de-trabajo357-1-350x447.jpg"
+  },
+  {
+    "nombre": "Torre de Gatos",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/torre-de-gatos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/torre-de-gatos-350x447.jpg"
+  },
+  {
+    "nombre": "Tough Calls: Dystopia",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/tough-calls-dystopia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/Tough-Calls-1-350x447.jpg"
+  },
+  {
+    "nombre": "Tranvía Mortal – Vías + modificadores",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/tranvia-mortal-vias-modificadores/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/25-350x447.jpg"
+  },
+  {
+    "nombre": "Trapwords",
+    "precio": "$19.990",
+    "url": "https://gatoarcano.cl/product/trapwords/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-63-350x447.jpg"
+  },
+  {
+    "nombre": "Tuareg",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/tuareg/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/Mesa-de-trabajo27662-350x447.jpg"
+  },
+  {
+    "nombre": "Tzolk’in: El calendario Maya",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/tzolkin-el-calendario-maya/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/07/Mesa-de-trabajo387-350x447.jpg"
+  },
+  {
+    "nombre": "Unicorn Fever",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/unicorn-fever/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Unicorn-fever-1-350x447.jpg"
+  },
+  {
+    "nombre": "Unlock! Extraordinary Adventures",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/unlock-extraordinary-adventures/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/6-350x447.jpg"
+  },
+  {
+    "nombre": "Unlock! Kids",
+    "precio": "$26.990",
+    "url": "https://gatoarcano.cl/product/unlock-kids/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard90-350x447.jpg"
+  },
+  {
+    "nombre": "Unlock! Miniaventuras – La mazmorra de Doo-Arann’",
+    "precio": "$6.990",
+    "url": "https://gatoarcano.cl/product/unlock-miniaventuras-la-mazmorra-de-doo-arann/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard78-350x447.jpg"
+  },
+  {
+    "nombre": "Unlock! Miniaventuras – Los secretos del pulpo",
+    "precio": "$6.990",
+    "url": "https://gatoarcano.cl/product/unlock-miniaventuras-los-secretos-del-pulpo/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard86-350x447.jpg"
+  },
+  {
+    "nombre": "Unlock! Miniaventuras – Recetas secretas de antaño",
+    "precio": "$6.990",
+    "url": "https://gatoarcano.cl/product/unlock-miniaventuras-recetas-secretas-de-antano/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard82-350x447.jpg"
+  },
+  {
+    "nombre": "Unmatched – Battle of Legends vol. 2",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/unmatched-battle-of-legends-vol-2/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/18-350x447.jpg"
+  },
+  {
+    "nombre": "Unmatched – Houdini vs el Genio",
+    "precio": "$36.990",
+    "url": "https://gatoarcano.cl/product/unmatched-houdini-vs-el-genio/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/13-350x447.jpg"
+  },
+  {
+    "nombre": "Unmatched – Robin Hood vs Bigfoot",
+    "precio": "$36.990",
+    "url": "https://gatoarcano.cl/product/unmatched-robin-hood-vs-bigfoot/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/07/Unmatched-robin-hood-big-foot-1-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Unstable-unicorns-1-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns – Apocalipsis irisado",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-apocalipsis-irisado/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/54-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns – Aventuras",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-aventuras/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/48-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns – Dragones",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-dragones/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/52-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns – Especial de Navidad",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-especial-de-navidad/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27719-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns – Pesadillas",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-pesadillas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27721-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns – Unicornios de leyendas",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-unicornios-de-leyendas/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/50-350x447.jpg"
+  },
+  {
+    "nombre": "Unstable Unicorns para niños",
+    "precio": "$14.990",
+    "url": "https://gatoarcano.cl/product/unstable-unicorns-para-ninos/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27723-350x447.jpg"
+  },
+  {
+    "nombre": "Viajes por la Tierra Media – Moradores de la Oscuridad",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/viajes-por-la-tierra-media-moradores-de-la-oscuridad/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Moradores-en-la-oscuridad-viajes-por-la-tierra-media-el-señor-de-los-anillos-2-350x447.jpg"
+  },
+  {
+    "nombre": "Virulence: el juego de cartas contagioso",
+    "precio": "$23.990",
+    "url": "https://gatoarcano.cl/product/virulence-el-juego-de-cartas-contagioso/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/10/virulence-350x447.jpg"
+  },
+  {
+    "nombre": "Virus!",
+    "precio": "$17.990",
+    "url": "https://gatoarcano.cl/product/virus/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/virus-350x447.jpg"
+  },
+  {
+    "nombre": "Virus! 2 Evolution",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/virus-2-evolution/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/virus2_0-600x600-1-350x447.jpg"
+  },
+  {
+    "nombre": "Viticulture Wine Crate (+ expansión World)",
+    "precio": "$79.990",
+    "url": "https://gatoarcano.cl/product/viticulture-wine-crate-expansion-world/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27483-350x447.jpg"
+  },
+  {
+    "nombre": "Vroom vroom",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/vroom-vroom/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/5950863_1-350x447.jpg"
+  },
+  {
+    "nombre": "War Chest",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/war-chest/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo439-350x447.jpg"
+  },
+  {
+    "nombre": "War Chest – Asedio",
+    "precio": "$22.490",
+    "url": "https://gatoarcano.cl/product/war-chest-asedio/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo445-350x447.jpg"
+  },
+  {
+    "nombre": "War Chest – Nobleza",
+    "precio": "$20.240",
+    "url": "https://gatoarcano.cl/product/war-chest-nobleza/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo448-350x447.jpg"
+  },
+  {
+    "nombre": "Wingspan",
+    "precio": "$62.990",
+    "url": "https://gatoarcano.cl/product/wingspan/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/Wingspan-1-350x447.jpg"
+  },
+  {
+    "nombre": "Wingspan – Asia",
+    "precio": "$53.990",
+    "url": "https://gatoarcano.cl/product/wingspan-asia/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27539-350x447.jpg"
+  },
+  {
+    "nombre": "Wingspan – Expansión Oceanía",
+    "precio": "$31.990",
+    "url": "https://gatoarcano.cl/product/wingspan-expansion-oceania/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/04/Wingspam-1-350x447.jpg"
+  },
+  {
+    "nombre": "Winter Kingdom",
+    "precio": "$54.990",
+    "url": "https://gatoarcano.cl/product/winter-kingdom/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/10/Artboard13-350x447.png"
+  },
+  {
+    "nombre": "Wizard",
+    "precio": "$12.990",
+    "url": "https://gatoarcano.cl/product/wizard/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28144-1-350x447.jpg"
+  },
+  {
+    "nombre": "Wolfenstein Pack",
+    "precio": "$159.990",
+    "url": "https://gatoarcano.cl/product/wolfenstein-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/09/Mesa-de-trabajo27181-350x447.jpg"
+  },
+  {
+    "nombre": "Woodcraft",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/woodcraft/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/a-350x447.jpg"
+  },
+  {
+    "nombre": "X-Men: Insurrección Mutante",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/x-men-insurreccion-mutante/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Mesa-de-trabajo-77-350x447.png"
+  },
+  {
+    "nombre": "Zombicide – Monty Pythons flying circus",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/zombicide-monty-pythons-flying-circus/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/09/Mesa-de-trabajo28137-1-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide – White Death crossfire pack",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/zombicide-white-death-crossfire-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide – White Death Divine Beasts",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/zombicide-white-death-divine-beasts/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/5-2-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide 2da Ed.: Rio Z Janeiro",
+    "precio": "$59.990",
+    "url": "https://gatoarcano.cl/product/zombicide-2da-ed-rio-z-janeiro/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/Mesa-de-trabajo27742-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide 2da Ed.: Washington Z.C.",
+    "precio": "$49.990",
+    "url": "https://gatoarcano.cl/product/zombicide-2da-ed-washington-z-c/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/Mesa-de-trabajo405-350x447.png"
+  },
+  {
+    "nombre": "Zombicide 2da Edición – Fort Hendrix",
+    "precio": "$47.990",
+    "url": "https://gatoarcano.cl/product/zombicide-2da-edicion-fort-hendrix/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/1-2-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: Chronicles – Pantalla del director",
+    "precio": "$21.990",
+    "url": "https://gatoarcano.cl/product/zombicide-chronicles-pantalla-del-director/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27620-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: Iron Maiden Character Pack #1",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/zombicide-iron-maiden-character-pack-1/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27283-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: Iron Maiden Character Pack #2",
+    "precio": "$27.990",
+    "url": "https://gatoarcano.cl/product/zombicide-iron-maiden-character-pack-2/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27280-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: Iron Maiden Character Pack #3",
+    "precio": "$15.990",
+    "url": "https://gatoarcano.cl/product/zombicide-iron-maiden-character-pack-3/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27277-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: Undead or Alive – Running Wild",
+    "precio": "$33.990",
+    "url": "https://gatoarcano.cl/product/zombicide-undead-or-alive-running-wild/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27571-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: White Death",
+    "precio": "$109.990",
+    "url": "https://gatoarcano.cl/product/zombicide-white-death/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/13-1-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: White Death – Climbers & Terrocotta pack",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/zombicide-white-death-climbers-terrocotta-pack/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/3-2-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: White Death – Eternal Empire",
+    "precio": "$44.990",
+    "url": "https://gatoarcano.cl/product/zombicide-white-death-eternal-empire/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/11-1-350x447.jpg"
+  },
+  {
+    "nombre": "Zombicide: White Death – Teenage Mutant Ninja Turtles Timecrash",
+    "precio": "$53.990",
+    "url": "https://gatoarcano.cl/product/zombicide-white-death-teenage-mutant-ninja-turtles-timecrash/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/08/7-1-350x447.jpg"
+  },
+  {
+    "nombre": "Zomibicide: Undead or Alive – Gears and Guns",
+    "precio": "$42.490",
+    "url": "https://gatoarcano.cl/product/zomibicide-undead-or-alive-gears-and-guns/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/02/Mesa-de-trabajo27575-350x447.jpg"
+  }
+]
