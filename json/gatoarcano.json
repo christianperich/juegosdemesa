@@ -108,10 +108,10 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2023/06/3-3-350x447.jpg"
   },
   {
-    "nombre": "Aqualin: agrupate y venceras",
-    "precio": "$24.990",
-    "url": "https://gatoarcano.cl/product/aqualin-agrupate-y-venceras/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27592-350x447.jpg"
+    "nombre": "Art Robbery",
+    "precio": "$17.000",
+    "url": "https://gatoarcano.cl/product/art-robbery/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/A-350x447.jpg"
   },
   {
     "nombre": "Aventureros al Tren – Japon Italia",
@@ -264,12 +264,6 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2022/12/Mesa-de-trabajo27293-350x447.jpg"
   },
   {
-    "nombre": "Bloodborne: el juego de cartas",
-    "precio": "$32.990",
-    "url": "https://gatoarcano.cl/product/bloodborne/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/JDM0381_201751810510_f-350x447.jpg"
-  },
-  {
     "nombre": "Bohnanza",
     "precio": "$12.990",
     "url": "https://gatoarcano.cl/product/bohnanza/",
@@ -414,12 +408,6 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/catan_cyc_amp56-350x447.jpg"
   },
   {
-    "nombre": "Catan – Edición de Viaje",
-    "precio": "$29.990",
-    "url": "https://gatoarcano.cl/product/catan-edicion-de-viaje/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/09/28-350x447.jpg"
-  },
-  {
     "nombre": "Catan – El Duelo",
     "precio": "$22.990",
     "url": "https://gatoarcano.cl/product/catan-el-duelo/",
@@ -562,6 +550,12 @@
     "precio": "$61.990",
     "url": "https://gatoarcano.cl/product/concordia/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2021/07/Concordia-1-350x447.jpg"
+  },
+  {
+    "nombre": "Cortex + Challenge",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/cortex-challenge/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/20190328121016_1532-350x447.jpg"
   },
   {
     "nombre": "Cortex Challenge",
@@ -786,6 +780,12 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/20190808092050_1982-2-350x447.jpg"
   },
   {
+    "nombre": "Doddle Rush",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/doddle-rush/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/10/Doodle-rush-1-350x447.jpg"
+  },
+  {
     "nombre": "Dominion 2º edition",
     "precio": "$34.990",
     "url": "https://gatoarcano.cl/product/dominion-2o-edition/",
@@ -832,6 +832,12 @@
     "precio": "$59.990",
     "url": "https://gatoarcano.cl/product/playmat-eclipse-el-segundo-amanecer-de-la-galaxia/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2022/02/Mesa-de-trabajo363-350x447.jpg"
+  },
+  {
+    "nombre": "El Dilema del Rey",
+    "precio": "$34.990",
+    "url": "https://gatoarcano.cl/product/dilema-del-rey/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/12/El-dilema-del-rey-1-1-350x447.jpg"
   },
   {
     "nombre": "El Dorado 2da Edición",
@@ -886,12 +892,6 @@
     "precio": "$12.990",
     "url": "https://gatoarcano.cl/product/exit-el-laberinto-maldito/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27590-1-350x447.jpg"
-  },
-  {
-    "nombre": "Exit – El museo misterioso",
-    "precio": "$12.990",
-    "url": "https://gatoarcano.cl/product/exit-el-museo-misterioso/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/05/1-11-350x447.jpg"
   },
   {
     "nombre": "Exit – El regreso a la cabaña abandonada",
@@ -1236,6 +1236,12 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2022/05/9-350x447.jpg"
   },
   {
+    "nombre": "Imagine Family",
+    "precio": "$24.990",
+    "url": "https://gatoarcano.cl/product/imagine-family/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Imagine-family-1-350x447.jpg"
+  },
+  {
     "nombre": "Imperium: clásicos",
     "precio": "$32.990",
     "url": "https://gatoarcano.cl/product/imperium-clasicos/",
@@ -1276,6 +1282,12 @@
     "precio": "$7.990",
     "url": "https://gatoarcano.cl/product/juguemos-mas-cerca/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2023/01/Mesa-de-trabajo27665-350x447.jpg"
+  },
+  {
+    "nombre": "Just One",
+    "precio": "$22.990",
+    "url": "https://gatoarcano.cl/product/just-one/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/15537133856037_Diapositiva1-350x447.jpg"
   },
   {
     "nombre": "King of Monster Island",
@@ -1662,12 +1674,6 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2023/03/Mesa-de-trabajo27880-350x447.jpg"
   },
   {
-    "nombre": "Munchkin",
-    "precio": "$19.990",
-    "url": "https://gatoarcano.cl/product/munchkin/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/04/1-14-350x447.jpg"
-  },
-  {
     "nombre": "Mysterium – Hidden Signs",
     "precio": "$10.990",
     "url": "https://gatoarcano.cl/product/mysterium-hidden-signs/",
@@ -1720,12 +1726,6 @@
     "precio": "$22.090",
     "url": "https://gatoarcano.cl/product/nemesis-spacecats/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/6-1-350x447.jpg"
-  },
-  {
-    "nombre": "Nemesis – Terrain Expansion",
-    "precio": "$33.140",
-    "url": "https://gatoarcano.cl/product/nemesis-terrain-expansion/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/06/4-1-350x447.jpg"
   },
   {
     "nombre": "Nemesis: Lockdown – Recompensas de Campaña",
@@ -2040,6 +2040,12 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2022/04/Mesa-de-trabajo359-350x447.jpg"
   },
   {
+    "nombre": "Sherlock Holmes Detective Asesor: Los Crímenes del Támesis",
+    "precio": "$42.990",
+    "url": "https://gatoarcano.cl/product/sherlock-holmes-detective-asesor-los-crimenes-del-tamesis/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Sherlock-holmes-detective-asesor-1-350x447.jpg"
+  },
+  {
     "nombre": "Similo – Fábulas",
     "precio": "$9.990",
     "url": "https://gatoarcano.cl/product/similo-fabulas/",
@@ -2208,6 +2214,12 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2020/10/Starcadia-Quest-1-350x447.jpg"
   },
   {
+    "nombre": "Startups",
+    "precio": "$20.990",
+    "url": "https://gatoarcano.cl/product/startups/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/12/D-350x447.jpg"
+  },
+  {
     "nombre": "Stockpile Edición Épica",
     "precio": "$59.990",
     "url": "https://gatoarcano.cl/product/stockpile-edicion-epica/",
@@ -2266,12 +2278,6 @@
     "precio": "$119.990",
     "url": "https://gatoarcano.cl/product/sword-sorcery-cronicas-antiguas/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2023/04/Mesa-de-trabajo27609-350x447.jpg"
-  },
-  {
-    "nombre": "Tabannusi: constructores de Ur",
-    "precio": "$23.990",
-    "url": "https://gatoarcano.cl/product/tabannusi-constructores-de-ur/",
-    "cover": "https://gatoarcano.cl/wp-content/uploads/2023/11/3-350x447.jpg"
   },
   {
     "nombre": "Tainted Grail – La caída de Avalon",
@@ -2416,6 +2422,12 @@
     "precio": "$11.990",
     "url": "https://gatoarcano.cl/product/timeline-chile/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2020/07/TimeLine-Chile-4-350x447.jpg"
+  },
+  {
+    "nombre": "Timeline Ecopack – Clásico",
+    "precio": "$11.990",
+    "url": "https://gatoarcano.cl/product/timeline-ecopack-clasico/",
+    "cover": "https://gatoarcano.cl/wp-content/plugins/woocommerce/assets/images/placeholder.png"
   },
   {
     "nombre": "Timeline Ecopack – Eventos",
@@ -2574,10 +2586,22 @@
     "cover": "https://gatoarcano.cl/wp-content/uploads/2023/05/Mesa-de-trabajo27723-350x447.jpg"
   },
   {
+    "nombre": "Vampiro: La Mascarada – Vendetta",
+    "precio": "$29.990",
+    "url": "https://gatoarcano.cl/product/vampiro-vendetta/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Vampire-350x447.jpg"
+  },
+  {
     "nombre": "Viajes por la Tierra Media – Moradores de la Oscuridad",
     "precio": "$12.990",
     "url": "https://gatoarcano.cl/product/viajes-por-la-tierra-media-moradores-de-la-oscuridad/",
     "cover": "https://gatoarcano.cl/wp-content/uploads/2021/03/Moradores-en-la-oscuridad-viajes-por-la-tierra-media-el-señor-de-los-anillos-2-350x447.jpg"
+  },
+  {
+    "nombre": "Viajes por la Tierra Media – Sendas Sombrías",
+    "precio": "$74.990",
+    "url": "https://gatoarcano.cl/product/sendas-sombrias/",
+    "cover": "https://gatoarcano.cl/wp-content/uploads/2020/06/LOTR-expa-350x447.jpg"
   },
   {
     "nombre": "Virulence: el juego de cartas contagioso",

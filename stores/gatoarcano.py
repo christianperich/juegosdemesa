@@ -27,7 +27,6 @@ def obtener_productos(soup):
   return lista_productos
        
 
-
 def main():
   url = 'https://gatoarcano.cl/product-category/juegos-de-mesa/'
   
@@ -41,7 +40,7 @@ def main():
   
   driver.implicitly_wait(10)
   
-  total_paginas = 36
+  total_paginas = driver.find_element(By.CSS_SELECTOR, '.jet-filters-pagination__item:nth-last-child(2) .jet-filters-pagination__link').text
       
   for pagina in range (1, total_paginas + 1):  
     html = driver.page_source
@@ -57,7 +56,7 @@ def main():
   driver.quit()
 
  
-  with open('gatoarcano.json', 'w', encoding='utf-8') as json_file:
+  with open('./json/gatoarcano.json', 'w', encoding='utf-8') as json_file:
     json.dump(lista_productos, json_file, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":

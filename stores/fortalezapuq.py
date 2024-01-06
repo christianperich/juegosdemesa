@@ -36,22 +36,24 @@ def main():
 
   driver.implicitly_wait(10)
   
-  total_paginas = 67
+  ultima_pagina = False
   
-  for pagina in range (1, total_paginas + 1):
+  while ultima_pagina == False:
     html = driver.page_source
     soup = BeautifulSoup(html, 'lxml')
     
     obtener_productos(soup)
     
-    if pagina < total_paginas:    
+    try: 
       next_button = driver.find_element(By.CLASS_NAME, 'next')
       driver.execute_script("arguments[0].click();", next_button)
       driver.implicitly_wait(10)
+    except: 
+      ultima_pagina = True
   
   driver.quit()    
   
-  with open('fortalezapuq.json', 'w', encoding='utf-8') as json_file:
+  with open('./json/fortalezapuq.json', 'w', encoding='utf-8') as json_file:
     json.dump(lista_productos, json_file, ensure_ascii=False, indent=2)   
   
 
