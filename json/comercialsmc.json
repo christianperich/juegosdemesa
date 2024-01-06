@@ -1,278 +1,281 @@
-[
-  {
-    "nombre": "Domino 12 color",
-    "precio": "$22.000",
-    "url": "https://www.comercialsmc.cl/producto/domino-12-color/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2022/11/domino-12-250x250.webp"
-  },
-  {
-    "nombre": "Catan: Juego Base",
-    "precio": "$35.000",
-    "url": "https://www.comercialsmc.cl/producto/catan/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/catanjuegobase-250x250.jpg"
-  },
-  {
-    "nombre": "Dixit Base (3-8 jugadores)",
-    "precio": "$30.000",
-    "url": "https://www.comercialsmc.cl/producto/dixit-base-3-6-jugadores/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/139-250x250.jpg"
-  },
-  {
-    "nombre": "Dixit Odyssey (3-12 jugadores)",
-    "precio": "$30.000",
-    "url": "https://www.comercialsmc.cl/producto/dixit-odyssey-3-12-jugadores/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/357-250x250.jpg"
-  },
-  {
-    "nombre": "Dobble Eco",
-    "precio": "$12.990",
-    "url": "https://www.comercialsmc.cl/producto/dobble-eco/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/dobble-blister-eco-250x250.jpg"
-  },
-  {
-    "nombre": "Exploding Kittens (Español)",
-    "precio": "$21.000",
-    "url": "https://www.comercialsmc.cl/producto/exploding-kittens-espanol/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/549-250x250.jpg"
-  },
-  {
-    "nombre": "Pandemic",
-    "precio": "$36.000",
-    "url": "https://www.comercialsmc.cl/producto/pandemic/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/367-250x250.jpg"
-  },
-  {
-    "nombre": "Virus",
-    "precio": "$19.000",
-    "url": "https://www.comercialsmc.cl/producto/virus/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1524-250x250.jpg"
-  },
-  {
-    "nombre": "Mala Leche: La media vola",
-    "precio": "$22.000",
-    "url": "https://www.comercialsmc.cl/producto/mala-leche-la-media-vola/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1962-250x250.jpg"
-  },
-  {
-    "nombre": "Póngale! La cultura chupística (+18)",
-    "precio": "$8.500",
-    "url": "https://www.comercialsmc.cl/producto/pongale-la-cultura-chupistica-18/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/08/pongale-250x250.png"
-  },
-  {
-    "nombre": "7 Wonders",
-    "precio": "$49.000",
-    "url": "https://www.comercialsmc.cl/producto/7-wonders/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1963-250x250.jpg"
-  },
-  {
-    "nombre": "Aventureros al Tren América",
-    "precio": "$46.000",
-    "url": "https://www.comercialsmc.cl/producto/aventureros-al-tren-america/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1520-250x250.jpg"
-  },
-  {
-    "nombre": "Aventureros al Tren Europa",
-    "precio": "$46.000",
-    "url": "https://www.comercialsmc.cl/producto/aventureros-al-tren-europa/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1521-250x250.jpg"
-  },
-  {
-    "nombre": "Azul",
-    "precio": "$41.000",
-    "url": "https://www.comercialsmc.cl/producto/azul/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/914-250x250.jpg"
-  },
-  {
-    "nombre": "Catan Expansión Mercaderes y Bárbaros",
-    "precio": "$36.000",
-    "url": "https://www.comercialsmc.cl/producto/catan-expansion-mercaderes-y-barbaros/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/649-250x250.jpg"
-  },
-  {
-    "nombre": "Catan Expansión Piratas y Exploradores",
-    "precio": "$38.000",
-    "url": "https://www.comercialsmc.cl/producto/catan-expansion-piratas-y-exploradores/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/413.jpg"
-  },
-  {
-    "nombre": "Catan Juego Base Ampliación 5-6 Jugadores",
-    "precio": "$25.000",
-    "url": "https://www.comercialsmc.cl/producto/catan-juego-base-ampliacion-5-6-jugadores/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/516-250x250.jpg"
-  },
-  {
-    "nombre": "Catan Viajeros de las Estrellas",
-    "precio": "$85.000",
-    "url": "https://www.comercialsmc.cl/producto/catan-viajeros-de-las-estrellas/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/652-250x250.jpg"
-  },
-  {
-    "nombre": "Código Secreto",
-    "precio": "$21.000",
-    "url": "https://www.comercialsmc.cl/producto/codigo-secreto/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1097-250x250.jpg"
-  },
-  {
-    "nombre": "Dixit Expansión Mirrors",
-    "precio": "$21.000",
-    "url": "https://www.comercialsmc.cl/producto/dixit-expansion-mirrors/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1816-243x250.jpg"
-  },
-  {
-    "nombre": "Dobble Harry Potter",
-    "precio": "$16.000",
-    "url": "https://www.comercialsmc.cl/producto/dobble-harry-potter/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/741-250x250.jpg"
-  },
-  {
-    "nombre": "Domino 9",
-    "precio": "$14.500",
-    "url": "https://www.comercialsmc.cl/producto/domino-9/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/08/domino9-250x250.png"
-  },
-  {
-    "nombre": "Exploding Kittens +18 NSFW (Español)",
-    "precio": "$21.000",
-    "url": "https://www.comercialsmc.cl/producto/exploding-kittens-18-nsfw-espanol/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/552-250x250.jpg"
-  },
-  {
-    "nombre": "Exploding Kittens Party Pack",
-    "precio": "$31.000",
-    "url": "https://www.comercialsmc.cl/producto/exploding-kittens-party-pack/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/explding-kittens-250x250.png"
-  },
-  {
-    "nombre": "Fantasma Blitz",
-    "precio": "$14.000",
-    "url": "https://www.comercialsmc.cl/producto/fantasma-blitz/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1854-250x250.jpg"
-  },
-  {
-    "nombre": "Hombres Lobo de Castronegro",
-    "precio": "$11.000",
-    "url": "https://www.comercialsmc.cl/producto/hombres-lobo-de-castronegro/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1617-250x250.jpg"
-  },
-  {
-    "nombre": "4 Sujetadores de cartas",
-    "precio": "$6.000",
-    "url": "https://www.comercialsmc.cl/producto/sujeta-cartas-4/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/731-250x250.jpg"
-  },
-  {
-    "nombre": "King of New York",
-    "precio": "$41.000",
-    "url": "https://www.comercialsmc.cl/producto/king-of-new-york/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/800-250x250.jpg"
-  },
-  {
-    "nombre": "King of Tokyo",
-    "precio": "$34.000",
-    "url": "https://www.comercialsmc.cl/producto/king-of-tokyo/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/919-250x250.jpg"
-  },
-  {
-    "nombre": "La Gran Capital",
-    "precio": "$10.000",
-    "url": "https://www.comercialsmc.cl/producto/la-gran-capital/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/150-250x250.jpg"
-  },
-  {
-    "nombre": "La Guerra en el Pacifico",
-    "precio": "$24.000",
-    "url": "https://www.comercialsmc.cl/producto/la-guerra-en-el-pacifico/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1098-250x250.jpg"
-  },
-  {
-    "nombre": "Ludo magnético grande",
-    "precio": "$10.000",
-    "url": "https://www.comercialsmc.cl/producto/ludo-magnetico-grande/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/895-250x250.jpg"
-  },
-  {
-    "nombre": "Monopoly Chile Edición Especial",
-    "precio": "$26.000",
-    "url": "https://www.comercialsmc.cl/producto/monopoly-chile-edicion-especial/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/monopoly-chile-250x250.jpg"
-  },
-  {
-    "nombre": "Monopoly Edición Limitada Fortnite",
-    "precio": "$30.000",
-    "url": "https://www.comercialsmc.cl/producto/monopoly-edicion-limitada-fortnite/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/547-250x250.jpg"
-  },
-  {
-    "nombre": "Monopoly Gamer Mario Kart",
-    "precio": "$30.000",
-    "url": "https://www.comercialsmc.cl/producto/monopoly-gamer-mario-kart/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/monopoly-gamer-mariokart-250x250.jpg"
-  },
-  {
-    "nombre": "Monopoly Star Wars The Mandalorian””",
-    "precio": "$30.000",
-    "url": "https://www.comercialsmc.cl/producto/monopoly-star-wars-the-mandalorian/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1719-250x250.jpg"
-  },
-  {
-    "nombre": "Monopoly Súper Banco Electrónico",
-    "precio": "$31.000",
-    "url": "https://www.comercialsmc.cl/producto/monopoly-banco-electronico/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/super-250x250.png"
-  },
-  {
-    "nombre": "Mysterium",
-    "precio": "$41.000",
-    "url": "https://www.comercialsmc.cl/producto/mysterium/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1064-250x250.jpg"
-  },
-  {
-    "nombre": "Set de poker 200 fichas",
-    "precio": "$15.000",
-    "url": "https://www.comercialsmc.cl/producto/set-de-poker-200-fichas/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/185-250x250.jpg"
-  },
-  {
-    "nombre": "Splendor",
-    "precio": "$36.000",
-    "url": "https://www.comercialsmc.cl/producto/splendor/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1291-250x250.jpg"
-  },
-  {
-    "nombre": "Story Cubes Classic",
-    "precio": "$12.000",
-    "url": "https://www.comercialsmc.cl/producto/story-cubes-classic/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1016-250x250.jpg"
-  },
-  {
-    "nombre": "Sushi Go!",
-    "precio": "$14.000",
-    "url": "https://www.comercialsmc.cl/producto/sushi-go/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/418-250x250.jpg"
-  },
-  {
-    "nombre": "Tablero Chino de Madera",
-    "precio": "$10.000",
-    "url": "https://www.comercialsmc.cl/producto/tablero-chino-de-madera/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/525-250x250.jpg"
-  },
-  {
-    "nombre": "The Island",
-    "precio": "$30.000",
-    "url": "https://www.comercialsmc.cl/producto/the-island/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1306-250x250.jpg"
-  },
-  {
-    "nombre": "Time’s up!",
-    "precio": "$21.000",
-    "url": "https://www.comercialsmc.cl/producto/times-up/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1807-250x250.jpg"
-  },
-  {
-    "nombre": "Timeline Clásico",
-    "precio": "$12.000",
-    "url": "https://www.comercialsmc.cl/producto/timeline-clasico/",
-    "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1055-250x250.jpg"
-  }
-]
+{
+  "tienda": "Comercial SMC",
+  "productos": [
+    {
+      "nombre": "Domino 12 color",
+      "precio": "$22.000",
+      "url": "https://www.comercialsmc.cl/producto/domino-12-color/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2022/11/domino-12-250x250.webp"
+    },
+    {
+      "nombre": "Catan: Juego Base",
+      "precio": "$35.000",
+      "url": "https://www.comercialsmc.cl/producto/catan/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/catanjuegobase-250x250.jpg"
+    },
+    {
+      "nombre": "Dixit Base (3-8 jugadores)",
+      "precio": "$30.000",
+      "url": "https://www.comercialsmc.cl/producto/dixit-base-3-6-jugadores/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/139-250x250.jpg"
+    },
+    {
+      "nombre": "Dixit Odyssey (3-12 jugadores)",
+      "precio": "$30.000",
+      "url": "https://www.comercialsmc.cl/producto/dixit-odyssey-3-12-jugadores/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/357-250x250.jpg"
+    },
+    {
+      "nombre": "Dobble Eco",
+      "precio": "$12.990",
+      "url": "https://www.comercialsmc.cl/producto/dobble-eco/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/dobble-blister-eco-250x250.jpg"
+    },
+    {
+      "nombre": "Exploding Kittens (Español)",
+      "precio": "$21.000",
+      "url": "https://www.comercialsmc.cl/producto/exploding-kittens-espanol/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/549-250x250.jpg"
+    },
+    {
+      "nombre": "Pandemic",
+      "precio": "$36.000",
+      "url": "https://www.comercialsmc.cl/producto/pandemic/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/367-250x250.jpg"
+    },
+    {
+      "nombre": "Virus",
+      "precio": "$19.000",
+      "url": "https://www.comercialsmc.cl/producto/virus/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1524-250x250.jpg"
+    },
+    {
+      "nombre": "Mala Leche: La media vola",
+      "precio": "$22.000",
+      "url": "https://www.comercialsmc.cl/producto/mala-leche-la-media-vola/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1962-250x250.jpg"
+    },
+    {
+      "nombre": "Póngale! La cultura chupística (+18)",
+      "precio": "$8.500",
+      "url": "https://www.comercialsmc.cl/producto/pongale-la-cultura-chupistica-18/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/08/pongale-250x250.png"
+    },
+    {
+      "nombre": "7 Wonders",
+      "precio": "$49.000",
+      "url": "https://www.comercialsmc.cl/producto/7-wonders/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1963-250x250.jpg"
+    },
+    {
+      "nombre": "Aventureros al Tren América",
+      "precio": "$46.000",
+      "url": "https://www.comercialsmc.cl/producto/aventureros-al-tren-america/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1520-250x250.jpg"
+    },
+    {
+      "nombre": "Aventureros al Tren Europa",
+      "precio": "$46.000",
+      "url": "https://www.comercialsmc.cl/producto/aventureros-al-tren-europa/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1521-250x250.jpg"
+    },
+    {
+      "nombre": "Azul",
+      "precio": "$41.000",
+      "url": "https://www.comercialsmc.cl/producto/azul/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/914-250x250.jpg"
+    },
+    {
+      "nombre": "Catan Expansión Mercaderes y Bárbaros",
+      "precio": "$36.000",
+      "url": "https://www.comercialsmc.cl/producto/catan-expansion-mercaderes-y-barbaros/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/649-250x250.jpg"
+    },
+    {
+      "nombre": "Catan Expansión Piratas y Exploradores",
+      "precio": "$38.000",
+      "url": "https://www.comercialsmc.cl/producto/catan-expansion-piratas-y-exploradores/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/413.jpg"
+    },
+    {
+      "nombre": "Catan Juego Base Ampliación 5-6 Jugadores",
+      "precio": "$25.000",
+      "url": "https://www.comercialsmc.cl/producto/catan-juego-base-ampliacion-5-6-jugadores/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/516-250x250.jpg"
+    },
+    {
+      "nombre": "Catan Viajeros de las Estrellas",
+      "precio": "$85.000",
+      "url": "https://www.comercialsmc.cl/producto/catan-viajeros-de-las-estrellas/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/652-250x250.jpg"
+    },
+    {
+      "nombre": "Código Secreto",
+      "precio": "$21.000",
+      "url": "https://www.comercialsmc.cl/producto/codigo-secreto/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1097-250x250.jpg"
+    },
+    {
+      "nombre": "Dixit Expansión Mirrors",
+      "precio": "$21.000",
+      "url": "https://www.comercialsmc.cl/producto/dixit-expansion-mirrors/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1816-243x250.jpg"
+    },
+    {
+      "nombre": "Dobble Harry Potter",
+      "precio": "$16.000",
+      "url": "https://www.comercialsmc.cl/producto/dobble-harry-potter/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/741-250x250.jpg"
+    },
+    {
+      "nombre": "Domino 9",
+      "precio": "$14.500",
+      "url": "https://www.comercialsmc.cl/producto/domino-9/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/08/domino9-250x250.png"
+    },
+    {
+      "nombre": "Exploding Kittens +18 NSFW (Español)",
+      "precio": "$21.000",
+      "url": "https://www.comercialsmc.cl/producto/exploding-kittens-18-nsfw-espanol/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/552-250x250.jpg"
+    },
+    {
+      "nombre": "Exploding Kittens Party Pack",
+      "precio": "$31.000",
+      "url": "https://www.comercialsmc.cl/producto/exploding-kittens-party-pack/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/explding-kittens-250x250.png"
+    },
+    {
+      "nombre": "Fantasma Blitz",
+      "precio": "$14.000",
+      "url": "https://www.comercialsmc.cl/producto/fantasma-blitz/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1854-250x250.jpg"
+    },
+    {
+      "nombre": "Hombres Lobo de Castronegro",
+      "precio": "$11.000",
+      "url": "https://www.comercialsmc.cl/producto/hombres-lobo-de-castronegro/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1617-250x250.jpg"
+    },
+    {
+      "nombre": "4 Sujetadores de cartas",
+      "precio": "$6.000",
+      "url": "https://www.comercialsmc.cl/producto/sujeta-cartas-4/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/731-250x250.jpg"
+    },
+    {
+      "nombre": "King of New York",
+      "precio": "$41.000",
+      "url": "https://www.comercialsmc.cl/producto/king-of-new-york/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/800-250x250.jpg"
+    },
+    {
+      "nombre": "King of Tokyo",
+      "precio": "$34.000",
+      "url": "https://www.comercialsmc.cl/producto/king-of-tokyo/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/919-250x250.jpg"
+    },
+    {
+      "nombre": "La Gran Capital",
+      "precio": "$10.000",
+      "url": "https://www.comercialsmc.cl/producto/la-gran-capital/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/150-250x250.jpg"
+    },
+    {
+      "nombre": "La Guerra en el Pacifico",
+      "precio": "$24.000",
+      "url": "https://www.comercialsmc.cl/producto/la-guerra-en-el-pacifico/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1098-250x250.jpg"
+    },
+    {
+      "nombre": "Ludo magnético grande",
+      "precio": "$10.000",
+      "url": "https://www.comercialsmc.cl/producto/ludo-magnetico-grande/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/895-250x250.jpg"
+    },
+    {
+      "nombre": "Monopoly Chile Edición Especial",
+      "precio": "$26.000",
+      "url": "https://www.comercialsmc.cl/producto/monopoly-chile-edicion-especial/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/monopoly-chile-250x250.jpg"
+    },
+    {
+      "nombre": "Monopoly Edición Limitada Fortnite",
+      "precio": "$30.000",
+      "url": "https://www.comercialsmc.cl/producto/monopoly-edicion-limitada-fortnite/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/547-250x250.jpg"
+    },
+    {
+      "nombre": "Monopoly Gamer Mario Kart",
+      "precio": "$30.000",
+      "url": "https://www.comercialsmc.cl/producto/monopoly-gamer-mario-kart/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/monopoly-gamer-mariokart-250x250.jpg"
+    },
+    {
+      "nombre": "Monopoly Star Wars The Mandalorian””",
+      "precio": "$30.000",
+      "url": "https://www.comercialsmc.cl/producto/monopoly-star-wars-the-mandalorian/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1719-250x250.jpg"
+    },
+    {
+      "nombre": "Monopoly Súper Banco Electrónico",
+      "precio": "$31.000",
+      "url": "https://www.comercialsmc.cl/producto/monopoly-banco-electronico/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/super-250x250.png"
+    },
+    {
+      "nombre": "Mysterium",
+      "precio": "$41.000",
+      "url": "https://www.comercialsmc.cl/producto/mysterium/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1064-250x250.jpg"
+    },
+    {
+      "nombre": "Set de poker 200 fichas",
+      "precio": "$15.000",
+      "url": "https://www.comercialsmc.cl/producto/set-de-poker-200-fichas/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/185-250x250.jpg"
+    },
+    {
+      "nombre": "Splendor",
+      "precio": "$36.000",
+      "url": "https://www.comercialsmc.cl/producto/splendor/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1291-250x250.jpg"
+    },
+    {
+      "nombre": "Story Cubes Classic",
+      "precio": "$12.000",
+      "url": "https://www.comercialsmc.cl/producto/story-cubes-classic/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1016-250x250.jpg"
+    },
+    {
+      "nombre": "Sushi Go!",
+      "precio": "$14.000",
+      "url": "https://www.comercialsmc.cl/producto/sushi-go/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/418-250x250.jpg"
+    },
+    {
+      "nombre": "Tablero Chino de Madera",
+      "precio": "$10.000",
+      "url": "https://www.comercialsmc.cl/producto/tablero-chino-de-madera/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/525-250x250.jpg"
+    },
+    {
+      "nombre": "The Island",
+      "precio": "$30.000",
+      "url": "https://www.comercialsmc.cl/producto/the-island/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1306-250x250.jpg"
+    },
+    {
+      "nombre": "Time’s up!",
+      "precio": "$21.000",
+      "url": "https://www.comercialsmc.cl/producto/times-up/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1807-250x250.jpg"
+    },
+    {
+      "nombre": "Timeline Clásico",
+      "precio": "$12.000",
+      "url": "https://www.comercialsmc.cl/producto/timeline-clasico/",
+      "cover": "https://www.comercialsmc.cl/wp-content/uploads/2021/07/1055-250x250.jpg"
+    }
+  ]
+}

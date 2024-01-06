@@ -3,7 +3,10 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import json
 
-lista_productos = []
+lista_productos = {
+  'tienda': 'Gato Arcano',
+  'productos': [],
+}
 
 def obtener_productos(soup):
   productos = soup.find_all('li', class_='product')
@@ -22,7 +25,7 @@ def obtener_productos(soup):
     
     juego = {'nombre': nombre, 'precio': precio, 'url': url, 'cover': cover}
     
-    lista_productos.append(juego)
+    lista_productos['productos'].append(juego)
   
   return lista_productos
        
@@ -40,7 +43,9 @@ def main():
   
   driver.implicitly_wait(10)
   
-  total_paginas = driver.find_element(By.CSS_SELECTOR, '.jet-filters-pagination__item:nth-last-child(2) .jet-filters-pagination__link').text
+  total_paginas = 36
+  
+  print(total_paginas)
       
   for pagina in range (1, total_paginas + 1):  
     html = driver.page_source

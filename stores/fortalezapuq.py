@@ -3,7 +3,10 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import json
 
-lista_productos = []
+lista_productos = {
+  'tienda': 'Fortaleza PUQ',
+  'productos': [],
+}
 
 def obtener_productos(soup):
   productos = soup.find_all('figure', class_='product')
@@ -23,7 +26,7 @@ def obtener_productos(soup):
 
     juego = {'nombre': nombre, 'precio': precio, 'url': url, 'cover': cover}
     
-    lista_productos.append(juego)
+    lista_productos['productos'].append(juego)
   
   
   return lista_productos
